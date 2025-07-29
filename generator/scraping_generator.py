@@ -32,11 +32,5 @@ with open('operators.json', 'w', newline='', encoding='utf-8') as f:
         # Écrire dans le CSV
         if len(data) == 4:
             writer.writerow(data)
-    
-    # # Extraire les données du tableau
-    # for row in soup.find_all('tr')[1:]:
-    #     cols = [col.text.strip() for col in row.find_all('td')]
-    #     if len(cols) >= 4:
-    #         writer.writerow(cols[:4])
 
 print("Terminé! Fichier: operators.json")
