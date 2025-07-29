@@ -1,0 +1,501 @@
+id,nom_joueur,prenom_joueur,age,pied,poste,pays,club,Nb_matchs,Nb_buts_marques,Nb_passes
+1,Brown,Jennifer,30,Gaucher,Attaquant,Kyrgyz Republic,Vargas LLC,746,118,14
+2,Parker,Meghan,27,Droitier,Gardien,Israel,Ward-Houston,45,645,172
+3,Sims,Jerry,33,Droitier,Défenseur,Belgium,Moore PLC,699,266,233
+4,Ramsey,Joel,35,Gaucher,Attaquant,Ukraine,"Lopez, Mccall and Thompson",658,756,156
+5,Ewing,Jenna,30,Gaucher,Attaquant,Cyprus,Thomas Inc,716,661,27
+6,Townsend,Brittany,24,Droitier,Attaquant,Liberia,"Moreno, Baldwin and Anderson",663,169,358
+7,Watkins,Barry,32,Droitier,Attaquant,Tonga,"Lindsey, Hill and Deleon",475,666,394
+8,Wallace,Denise,36,Droitier,Défenseur,Argentina,Hicks LLC,43,396,486
+9,Russell,Michelle,28,Droitier,Gardien,Djibouti,"Wilson, Fernandez and Conner",845,797,47
+10,Davis,Audrey,16,Droitier,Défenseur,Lesotho,"Thomas, Hurst and Reynolds",517,590,493
+11,Clark,Ashley,36,Droitier,Attaquant,Latvia,Pollard-Smith,247,847,80
+12,James,Javier,17,Droitier,Milieu,Netherlands Antilles,"Hooper, Hubbard and Nguyen",208,786,249
+13,Lee,Vincent,27,Droitier,Défenseur,Senegal,Hill-Morgan,848,494,283
+14,Miller,Alyssa,29,Droitier,Défenseur,Singapore,Sullivan-Taylor,390,790,260
+15,Lee,Cassandra,40,Droitier,Milieu,French Polynesia,Alexander PLC,476,197,425
+16,Perez,Nicole,27,Gaucher,Défenseur,Wallis and Futuna,Brown-Vincent,775,834,489
+17,Huerta,Shirley,42,Gaucher,Milieu,French Polynesia,"Williams, Wheeler and Jenkins",670,152,469
+18,Marsh,Amber,19,Droitier,Défenseur,Montenegro,Mcconnell Ltd,8,214,128
+19,Hall,Dorothy,42,Gaucher,Défenseur,Mexico,Sherman-Miranda,142,569,411
+20,White,Tyler,20,Droitier,Attaquant,Saint Martin,Lyons LLC,145,529,62
+21,Cruz,Evan,38,Gaucher,Milieu,Seychelles,Stanton PLC,736,668,202
+22,Moreno,Edward,34,Droitier,Gardien,Hong Kong,"Rogers, Bean and Anderson",355,80,385
+23,Jacobs,David,25,Droitier,Gardien,Angola,Jones Ltd,462,228,446
+24,White,Charles,30,Droitier,Milieu,Greenland,Lopez and Sons,14,740,488
+25,Baker,Charlotte,32,Gaucher,Défenseur,Andorra,Mitchell-Calhoun,212,632,193
+26,Curtis,Darlene,20,Droitier,Défenseur,Timor-Leste,Hernandez Ltd,682,82,382
+27,Williams,Ronald,31,Droitier,Attaquant,Niger,Griffin-Le,655,866,429
+28,Steele,Karen,32,Droitier,Gardien,Libyan Arab Jamahiriya,"Wallace, Kline and Anderson",156,115,88
+29,Williams,Dean,16,Gaucher,Milieu,Costa Rica,Mcbride LLC,243,869,477
+30,Martin,Elizabeth,39,Droitier,Attaquant,Wallis and Futuna,Henry-Barrett,806,393,62
+31,Eaton,Amanda,23,Droitier,Défenseur,Bouvet Island (Bouvetoya),Oliver-James,154,453,205
+32,Williams,Rachel,42,Gaucher,Attaquant,Liberia,"Nguyen, Brown and Li",447,658,58
+33,Gill,Sharon,33,Gaucher,Milieu,Norway,Cooper-Kennedy,346,677,469
+34,Montgomery,Christopher,29,Gaucher,Défenseur,Congo,"Blake, Adams and Mendoza",278,861,120
+35,Powell,Christine,16,Droitier,Défenseur,Serbia,Hunter-Miller,789,124,324
+36,Wilkerson,Jose,27,Droitier,Attaquant,Saint Vincent and the Grenadines,Davis-Brady,757,560,397
+37,Torres,Nathan,31,Gaucher,Défenseur,Saint Barthelemy,Cook and Sons,50,55,108
+38,Collins,Brandon,19,Droitier,Milieu,Sri Lanka,"Walker, Jones and Ruiz",98,315,353
+39,Jones,Gina,21,Gaucher,Attaquant,Mauritius,Mullins-Aguirre,118,245,99
+40,Snyder,Robert,34,Droitier,Défenseur,Central African Republic,Stevens-Melendez,754,590,399
+41,Kelly,Rhonda,34,Droitier,Attaquant,China,Goodman Group,501,849,495
+42,Spence,Sandra,34,Droitier,Attaquant,Nigeria,Johnson-Noble,248,191,450
+43,Jones,John,32,Droitier,Milieu,Guinea-Bissau,Peterson-Garcia,115,289,403
+44,Wright,Beth,32,Gaucher,Gardien,Hong Kong,"Perez, Jones and Lawson",222,216,177
+45,King,Amy,24,Gaucher,Milieu,Papua New Guinea,Cobb-Herrera,540,581,402
+46,Park,Stephen,18,Droitier,Défenseur,Benin,"Garcia, Kane and Martinez",148,807,150
+47,Edwards,Rachel,19,Droitier,Défenseur,Antarctica (the territory South of 60 deg S),Hammond LLC,241,574,473
+48,Wagner,Crystal,41,Gaucher,Attaquant,Canada,Liu-Smith,804,603,383
+49,Bryan,Anna,25,Droitier,Milieu,Dominica,Bonilla Inc,290,893,161
+50,Jimenez,Benjamin,20,Droitier,Milieu,Tunisia,"Martinez, Chung and Hughes",97,151,278
+51,Lamb,Erica,26,Droitier,Attaquant,New Zealand,Padilla LLC,655,189,375
+52,Perez,Jacob,25,Gaucher,Attaquant,Turks and Caicos Islands,Spencer-Jones,896,551,4
+53,Sutton,Brianna,26,Droitier,Attaquant,Belgium,Flores-Tyler,590,397,7
+54,Lester,Thomas,38,Droitier,Milieu,Puerto Rico,"Miles, Taylor and Guzman",535,768,170
+55,Wise,Amy,41,Gaucher,Attaquant,Guadeloupe,"Pitts, Russo and Burns",152,473,341
+56,Meyer,Terri,20,Gaucher,Gardien,Guyana,"Anderson, Williams and Allison",358,707,318
+57,Barton,Edward,25,Droitier,Attaquant,Western Sahara,Pacheco-King,454,647,245
+58,Morris,Michelle,32,Droitier,Attaquant,Russian Federation,"Austin, Johnson and Holmes",617,185,95
+59,Jacobs,Linda,38,Droitier,Défenseur,Slovenia,"Morrow, Holland and Mcdowell",665,615,10
+60,Bowen,Holly,29,Droitier,Défenseur,Algeria,Ayers Ltd,95,547,29
+61,Robinson,Robert,25,Gaucher,Attaquant,Palestinian Territory,Smith LLC,703,620,80
+62,Erickson,Luis,19,Droitier,Attaquant,Korea,"Pacheco, Cruz and Mitchell",430,539,444
+63,Jones,Jacob,17,Droitier,Défenseur,Argentina,Taylor-Burns,520,589,266
+64,Lyons,Diamond,37,Gaucher,Défenseur,Zambia,"Graves, Hayes and Rogers",630,382,299
+65,Marks,Rebekah,31,Droitier,Défenseur,Maldives,Spencer LLC,196,326,102
+66,Reese,Rodney,29,Droitier,Gardien,Bermuda,Ibarra-Robinson,150,8,457
+67,Herrera,Kelly,40,Droitier,Milieu,Bulgaria,"Oneill, Holmes and Burns",62,606,74
+68,Sanchez,Michael,37,Gaucher,Attaquant,Vietnam,Rodriguez LLC,541,554,341
+69,Wallace,Eric,42,Droitier,Attaquant,Indonesia,Klein and Sons,719,127,184
+70,Tran,Christopher,28,Gaucher,Gardien,South Georgia and the South Sandwich Islands,Wilkinson PLC,363,527,31
+71,Garcia,Gerald,38,Gaucher,Défenseur,Czech Republic,Oconnor-Gonzalez,729,298,177
+72,Todd,Stephanie,31,Droitier,Défenseur,Heard Island and McDonald Islands,Cooper-Carson,507,318,260
+73,Rojas,Dean,32,Droitier,Attaquant,Barbados,Buchanan and Sons,175,585,303
+74,Sims,Dawn,33,Droitier,Défenseur,Greenland,"Lee, Carey and Boyle",607,47,273
+75,Phillips,Zachary,29,Droitier,Défenseur,Chad,Bell-Mata,119,799,232
+76,Herrera,Omar,36,Gaucher,Attaquant,Czech Republic,Conner and Sons,814,852,306
+77,Browning,Tammy,41,Droitier,Milieu,Sweden,Miller LLC,342,486,280
+78,Williams,Thomas,22,Droitier,Attaquant,Brunei Darussalam,Turner-Foster,308,346,398
+79,Lee,Alex,38,Gaucher,Attaquant,Turkey,Morgan-Mason,447,374,194
+80,Bailey,Brandon,18,Droitier,Attaquant,Sierra Leone,Parsons and Sons,79,632,245
+81,Clark,Peter,20,Gaucher,Milieu,Iraq,Wright Inc,770,568,394
+82,Anderson,Claire,22,Gaucher,Attaquant,Zambia,"Benton, David and Gonzalez",466,501,375
+83,Vaughn,Joseph,17,Droitier,Milieu,Saint Vincent and the Grenadines,Burns-Smith,243,735,474
+84,Jackson,Michael,19,Droitier,Défenseur,Zimbabwe,Gonzales Inc,520,263,166
+85,Neal,Rickey,19,Gaucher,Attaquant,Burundi,Thompson and Sons,128,541,68
+86,Collins,Jacob,23,Gaucher,Attaquant,Cook Islands,Campbell-Travis,217,102,318
+87,Perez,Michael,30,Droitier,Attaquant,Tokelau,Mathews Group,478,58,10
+88,Stuart,Matthew,37,Gaucher,Défenseur,Eritrea,"Willis, Stevenson and Cox",514,473,497
+89,Wolf,Kimberly,26,Gaucher,Gardien,Monaco,"Fitzgerald, Carlson and Chandler",802,140,163
+90,Rice,Deborah,22,Gaucher,Attaquant,Lithuania,"Kramer, Harris and Clark",547,514,281
+91,Stuart,Randy,28,Droitier,Attaquant,Canada,"Mccullough, Moore and Smith",173,806,224
+92,Taylor,John,36,Gaucher,Attaquant,India,Valenzuela-Holmes,887,89,417
+93,Wilson,Tyler,31,Gaucher,Attaquant,Iran,Lynch-Martinez,594,478,481
+94,Robinson,Catherine,26,Droitier,Attaquant,Mali,"Horn, Ryan and Shaw",599,334,120
+95,Riley,Lauren,31,Droitier,Attaquant,Djibouti,"Anderson, Gay and Hamilton",596,835,380
+96,Rivers,Michael,18,Gaucher,Gardien,South Africa,"Coleman, Petty and White",213,737,155
+97,Woods,Michael,35,Droitier,Milieu,Brazil,"James, Davis and Greene",191,343,133
+98,Bennett,Nicholas,27,Gaucher,Gardien,Sierra Leone,Gonzales-Sanchez,143,657,201
+99,Stephens,Mark,36,Gaucher,Gardien,Cuba,"Johnston, Baker and Dennis",169,158,371
+100,Manning,Heather,25,Droitier,Milieu,Suriname,White-Stevenson,487,655,394
+101,Hunter,Barbara,34,Droitier,Gardien,Antarctica (the territory South of 60 deg S),Archer-Ford,649,288,173
+102,Andrews,Dale,26,Gaucher,Milieu,Falkland Islands (Malvinas),"Baker, Travis and Howard",599,823,414
+103,Church,Theresa,42,Gaucher,Attaquant,Cote d'Ivoire,Andersen LLC,531,340,135
+104,Mcknight,Jeffrey,35,Droitier,Gardien,Andorra,Green-White,632,431,123
+105,Richardson,Kevin,39,Droitier,Défenseur,Germany,Holloway-Dawson,754,58,223
+106,Garrett,Paul,17,Droitier,Milieu,Albania,Lane-Marshall,695,900,352
+107,Brown,Ryan,31,Droitier,Gardien,Denmark,Carrillo LLC,605,593,284
+108,Johnson,Heather,34,Gaucher,Attaquant,Zambia,"Baker, Wilson and Woods",630,519,43
+109,Kim,Brandon,34,Droitier,Gardien,Botswana,"Phillips, Mcknight and Griffin",818,784,154
+110,Moreno,Jason,17,Gaucher,Défenseur,Fiji,Burgess PLC,117,28,104
+111,Jimenez,Patrick,29,Droitier,Défenseur,Marshall Islands,"Rangel, Clay and Ellison",681,42,418
+112,Boyd,Sean,25,Droitier,Défenseur,Kyrgyz Republic,"Campbell, Cooper and Clark",825,302,37
+113,Green,Laurie,39,Droitier,Milieu,Monaco,Martin PLC,885,603,258
+114,Taylor,Samuel,37,Gaucher,Défenseur,Turkmenistan,Casey-Lopez,143,93,219
+115,Morgan,Jared,18,Gaucher,Défenseur,Palestinian Territory,Smith-Hayes,747,840,309
+116,Jones,Richard,39,Gaucher,Milieu,Malawi,Powell-Palmer,100,675,437
+117,Rogers,Brandon,32,Gaucher,Gardien,Zambia,Andrade-Barnett,831,359,222
+118,Brown,Gregory,36,Gaucher,Attaquant,Nauru,"Duncan, Fernandez and Spencer",472,581,50
+119,Ruiz,Brenda,24,Gaucher,Milieu,American Samoa,Griffin PLC,242,826,379
+120,Atkins,Rhonda,20,Droitier,Attaquant,Iran,"Phillips, Boyle and Huynh",673,871,87
+121,Harrington,Sheri,41,Gaucher,Défenseur,Congo,Perry-Hamilton,529,593,343
+122,Coffey,Willie,20,Droitier,Défenseur,United Arab Emirates,"Nelson, Perez and Johnson",15,486,320
+123,Anderson,Linda,41,Gaucher,Défenseur,Bosnia and Herzegovina,Stuart-Wood,295,350,58
+124,Young,Kimberly,42,Gaucher,Attaquant,Bhutan,Sims PLC,426,212,153
+125,Osborn,Sarah,36,Droitier,Milieu,Kyrgyz Republic,West-Taylor,581,628,80
+126,Johnson,Norman,41,Droitier,Défenseur,Faroe Islands,"Willis, Vega and Savage",545,91,53
+127,Smith,Robert,28,Gaucher,Attaquant,Cyprus,Lopez-Torres,894,408,484
+128,West,Zachary,15,Gaucher,Milieu,New Zealand,Schultz Ltd,368,119,300
+129,Mccoy,Katie,23,Droitier,Attaquant,Ireland,"Pierce, Pena and Wise",601,810,80
+130,Stevens,Zoe,21,Gaucher,Milieu,Georgia,Phillips-Wells,49,392,117
+131,Watkins,Lee,28,Gaucher,Gardien,Uzbekistan,"Adams, Thompson and Gonzales",629,102,259
+132,Bowen,Danielle,35,Droitier,Attaquant,Sao Tome and Principe,"Green, Johnson and Boyd",66,540,77
+133,Williams,Brian,28,Gaucher,Attaquant,Bolivia,Gonzalez and Sons,379,667,164
+134,Moore,Kevin,20,Droitier,Milieu,New Zealand,Anderson-Mcgee,829,270,67
+135,Campbell,Zachary,34,Droitier,Gardien,Djibouti,"Duke, Avila and Greer",304,616,145
+136,Booth,Destiny,20,Droitier,Gardien,Montenegro,White-Smith,588,550,30
+137,Watkins,Amy,29,Gaucher,Attaquant,Spain,Melendez-Pena,279,771,188
+138,Carroll,Taylor,41,Droitier,Défenseur,Saint Vincent and the Grenadines,White-Dalton,714,727,230
+139,Barrett,Amanda,39,Gaucher,Défenseur,Liberia,Howard-Choi,324,609,244
+140,Thomas,Heidi,20,Gaucher,Gardien,Bosnia and Herzegovina,"Summers, Sanchez and Vargas",884,440,226
+141,Watts,Elizabeth,28,Gaucher,Attaquant,Senegal,Price Group,59,99,179
+142,Robinson,Diana,30,Droitier,Défenseur,Argentina,Fernandez-Baker,667,288,499
+143,Taylor,Rebecca,29,Droitier,Milieu,San Marino,"Andrade, Francis and Joseph",623,559,106
+144,Khan,Jeanne,16,Gaucher,Milieu,Syrian Arab Republic,Allen-Steele,114,244,310
+145,Miller,Chloe,20,Gaucher,Défenseur,Peru,"Cline, Campbell and Bell",657,776,184
+146,Powers,Amanda,42,Gaucher,Milieu,Bahrain,Fletcher PLC,237,120,274
+147,Cunningham,Alison,37,Droitier,Attaquant,Cayman Islands,"Davis, Bean and Perez",595,725,226
+148,Wheeler,Tracy,18,Droitier,Défenseur,Fiji,Ramirez-Johnson,768,347,320
+149,Smith,Elizabeth,18,Droitier,Attaquant,Mali,"Cooper, Smith and Rangel",632,787,329
+150,Hart,Nicholas,31,Droitier,Attaquant,Netherlands Antilles,Williams-Shelton,569,631,298
+151,Mcneil,Henry,30,Gaucher,Défenseur,Mayotte,Edwards-Cummings,374,330,127
+152,Castro,William,20,Droitier,Milieu,Lithuania,Adams PLC,615,749,302
+153,Garcia,William,36,Droitier,Gardien,Mali,"Hess, Brown and Roberts",467,874,260
+154,Arnold,Lisa,30,Gaucher,Gardien,Iraq,"Jackson, Greene and Freeman",419,542,42
+155,Snyder,David,16,Droitier,Gardien,Bosnia and Herzegovina,Cortez Group,851,231,453
+156,Whitehead,Angela,21,Droitier,Défenseur,Anguilla,"Khan, Gray and Sandoval",414,117,161
+157,Gonzalez,Brittany,23,Droitier,Attaquant,New Caledonia,Weaver Group,507,173,212
+158,Cook,Samuel,24,Droitier,Milieu,Tunisia,Johnson-Ward,741,65,53
+159,Stevenson,Maria,32,Droitier,Défenseur,Cyprus,Burton Group,69,514,46
+160,Nichols,Cheryl,42,Droitier,Défenseur,Equatorial Guinea,Doyle LLC,194,439,123
+161,Adkins,Joyce,42,Gaucher,Milieu,Tanzania,Lopez Ltd,181,326,114
+162,George,Allen,32,Droitier,Milieu,Norway,Harrison LLC,47,783,154
+163,Perry,Yolanda,23,Droitier,Gardien,Israel,"Barrett, Patton and Harvey",510,582,41
+164,Knight,Amy,20,Droitier,Gardien,Uruguay,"Perry, Flowers and Gonzales",672,19,475
+165,Gill,Lynn,42,Gaucher,Défenseur,Iran,"Calhoun, Williams and Gilbert",443,146,270
+166,Johnson,Brandon,16,Droitier,Attaquant,British Virgin Islands,Anthony Group,96,754,129
+167,Gibson,Linda,28,Gaucher,Attaquant,Myanmar,Bennett Ltd,599,261,103
+168,Smith,Sandra,25,Gaucher,Attaquant,Bahrain,"Hayes, Giles and Benton",31,661,423
+169,Hunter,Jason,36,Gaucher,Défenseur,Australia,Morales Ltd,648,527,88
+170,Smith,William,22,Droitier,Milieu,Latvia,"Velasquez, Reid and Perez",317,309,250
+171,Johnston,Claudia,20,Droitier,Attaquant,India,"Anderson, Berry and Peterson",7,333,311
+172,Ruiz,Stephanie,17,Gaucher,Défenseur,Greece,"Barnes, Wall and Brown",451,778,273
+173,Freeman,William,22,Droitier,Défenseur,Portugal,Greene-Kramer,61,655,498
+174,Jones,Lauren,27,Gaucher,Défenseur,China,Gamble and Sons,62,727,445
+175,Miller,Theresa,35,Droitier,Attaquant,Belgium,Hicks and Sons,558,692,162
+176,Espinoza,Katherine,21,Gaucher,Milieu,Afghanistan,Hopkins and Sons,204,707,54
+177,Torres,Ricky,39,Droitier,Défenseur,Sweden,Henderson PLC,49,380,250
+178,Johnson,Carmen,26,Gaucher,Attaquant,Uruguay,Daniels LLC,572,602,153
+179,Reed,Joe,33,Droitier,Attaquant,Qatar,"Salas, Nelson and Nixon",518,156,355
+180,Huerta,Melissa,36,Gaucher,Milieu,Tonga,"Keller, Freeman and Mcdonald",344,130,470
+181,Rios,John,26,Gaucher,Défenseur,Saint Martin,"Wade, Johnson and Johnson",184,49,444
+182,Serrano,Amanda,18,Gaucher,Milieu,Egypt,Davis-Dillon,899,623,56
+183,Turner,Gregory,28,Gaucher,Défenseur,China,"Gibson, Ortiz and Harris",2,391,407
+184,Phillips,Tyler,21,Gaucher,Gardien,Ethiopia,"Foster, Wood and Thompson",442,199,61
+185,Scott,Devin,24,Droitier,Gardien,Zambia,Brown LLC,833,310,259
+186,Dean,William,19,Gaucher,Milieu,Brazil,"Johnson, Cannon and Dixon",869,730,166
+187,Bean,Raymond,32,Gaucher,Gardien,Libyan Arab Jamahiriya,Fisher-Mitchell,279,700,129
+188,Taylor,Rebecca,19,Gaucher,Défenseur,Japan,"Fitzgerald, Payne and Sparks",34,500,8
+189,Craig,Katrina,30,Droitier,Milieu,Guadeloupe,Zimmerman-Benjamin,272,841,316
+190,Williams,Barbara,41,Droitier,Défenseur,Korea,Moore Group,151,417,363
+191,Lee,Mark,40,Gaucher,Défenseur,Tokelau,"Hooper, Liu and Chan",371,373,289
+192,Herrera,Stephen,21,Droitier,Gardien,Macao,"Williams, Gibson and Williamson",678,844,196
+193,Hopkins,Brenda,21,Gaucher,Gardien,Madagascar,Scott-Harmon,837,315,80
+194,Brown,Taylor,20,Gaucher,Milieu,Congo,"Mitchell, Anderson and Smith",7,535,334
+195,Aguilar,Lori,34,Droitier,Milieu,Luxembourg,Gomez LLC,199,479,288
+196,Zhang,Emily,38,Droitier,Attaquant,Uganda,Williams and Sons,321,79,494
+197,Arroyo,Michael,24,Droitier,Gardien,Nigeria,Castro PLC,157,525,248
+198,Perez,Christina,27,Droitier,Défenseur,Jamaica,"Flores, Bradley and Wolf",436,169,419
+199,Stewart,Nicolas,21,Gaucher,Milieu,Bhutan,Rodriguez LLC,666,819,53
+200,Flores,Robert,21,Gaucher,Attaquant,Holy See (Vatican City State),Williams PLC,743,504,274
+201,Howard,Maxwell,37,Droitier,Milieu,Turkey,"Dixon, Webster and Boyd",457,214,486
+202,Perez,Allison,41,Droitier,Attaquant,Comoros,Smith-Walton,499,554,417
+203,Kim,Matthew,31,Droitier,Gardien,Ecuador,"Hawkins, Castro and Crosby",122,863,86
+204,Jones,Juan,34,Droitier,Gardien,Bosnia and Herzegovina,"Miller, West and Walker",479,797,377
+205,Liu,Shelby,17,Droitier,Gardien,Cuba,Shelton-Dillon,470,714,42
+206,Lee,Angela,18,Gaucher,Gardien,Armenia,"Cochran, Scott and Carr",86,35,481
+207,Hill,Jonathan,33,Droitier,Attaquant,Vietnam,Clark-Clarke,427,737,181
+208,Alexander,Benjamin,15,Droitier,Milieu,French Polynesia,Duncan PLC,853,786,318
+209,Dunn,Ellen,20,Droitier,Milieu,Trinidad and Tobago,"Jacobs, Moore and Smith",783,362,83
+210,Davis,Lindsay,41,Gaucher,Attaquant,Zimbabwe,Lee-Mccoy,468,137,400
+211,Mcdonald,Juan,17,Droitier,Milieu,Cape Verde,Baker-Barnes,389,246,474
+212,Evans,Jesse,35,Droitier,Milieu,Lithuania,Davis-Williams,255,4,118
+213,Beard,Heather,20,Droitier,Attaquant,Togo,Johnson-Ellis,353,762,237
+214,Knight,Emily,33,Gaucher,Gardien,Northern Mariana Islands,"Cummings, Gray and Moore",191,391,464
+215,Hobbs,Shannon,26,Gaucher,Milieu,Italy,Snow and Sons,136,315,388
+216,Chapman,Alexander,24,Gaucher,Gardien,Oman,"Martinez, Frank and Martinez",834,431,109
+217,Crane,Bonnie,38,Droitier,Défenseur,Tajikistan,Smith Group,519,487,48
+218,Robinson,Kristy,15,Droitier,Attaquant,Martinique,"Chen, Sawyer and Goodwin",190,254,351
+219,Duncan,Julie,24,Droitier,Milieu,Sao Tome and Principe,"Booker, Fernandez and Rodriguez",348,859,84
+220,Payne,Mike,18,Gaucher,Attaquant,American Samoa,Case-Thomas,167,622,141
+221,Ruiz,Gerald,30,Gaucher,Gardien,Sudan,King-Mitchell,672,575,405
+222,Bailey,Ariel,39,Gaucher,Milieu,Uruguay,Carr-Johnson,891,486,319
+223,Vincent,Jeremy,25,Gaucher,Gardien,Suriname,"Wade, Cox and Macias",127,22,255
+224,Davis,Matthew,31,Droitier,Défenseur,Libyan Arab Jamahiriya,Pratt PLC,787,113,397
+225,Wilson,John,36,Gaucher,Défenseur,Albania,"Burns, Martin and Stokes",678,404,445
+226,Hutchinson,Frank,21,Gaucher,Gardien,Finland,Taylor and Sons,131,204,325
+227,Graham,Jason,33,Droitier,Attaquant,Colombia,"Wiggins, Price and Salinas",635,485,135
+228,Robinson,Alexandra,35,Droitier,Attaquant,Brunei Darussalam,"Butler, Wilson and Wilson",312,642,247
+229,Luna,Jessica,33,Gaucher,Attaquant,Cuba,"Williams, Brown and Powers",670,497,210
+230,Larsen,Samuel,30,Gaucher,Défenseur,Portugal,Atkins LLC,257,411,108
+231,Cole,Isabel,38,Gaucher,Attaquant,Antigua and Barbuda,Sanders Ltd,267,848,369
+232,Barrett,Christopher,15,Droitier,Milieu,Latvia,Johnson-Cooper,830,80,17
+233,Mitchell,David,40,Droitier,Milieu,Norfolk Island,"Sullivan, Alvarez and Wheeler",148,53,392
+234,Mosley,Daniel,24,Droitier,Gardien,Saudi Arabia,"Tanner, Beasley and Walton",64,240,377
+235,Graves,Connie,24,Droitier,Milieu,Lithuania,Torres LLC,825,58,49
+236,Cox,Jon,36,Droitier,Attaquant,Congo,Novak Group,330,742,375
+237,Murphy,Shannon,36,Gaucher,Gardien,Russian Federation,"Johnson, Murphy and Davis",639,509,59
+238,Johnston,Juan,25,Droitier,Gardien,Norfolk Island,Smith Ltd,326,850,454
+239,Arellano,Jasmine,30,Droitier,Attaquant,Dominican Republic,Rich PLC,693,675,403
+240,Strickland,Carolyn,28,Gaucher,Milieu,Vietnam,Young Ltd,719,253,298
+241,Robinson,Karen,34,Gaucher,Milieu,Djibouti,"Li, Liu and Hess",885,219,100
+242,Osborne,Cody,18,Gaucher,Milieu,Korea,"Hill, Green and Patrick",517,668,353
+243,Benson,Megan,39,Droitier,Attaquant,Bhutan,Logan-Snyder,388,881,364
+244,Robinson,Sabrina,23,Droitier,Attaquant,Kyrgyz Republic,Clarke LLC,541,371,355
+245,Jackson,Rachel,36,Gaucher,Gardien,Gambia,"Smith, Cisneros and Carr",544,336,327
+246,Patton,Diane,15,Gaucher,Gardien,Chile,"Gonzalez, Silva and Brown",361,375,340
+247,Jacobs,Amanda,38,Gaucher,Attaquant,Gibraltar,Powell-Walker,279,587,187
+248,King,Lisa,18,Droitier,Défenseur,Bulgaria,Wood PLC,512,214,207
+249,Lopez,Christopher,37,Droitier,Gardien,Faroe Islands,"Dean, Booth and Gordon",63,63,299
+250,Jackson,Courtney,16,Gaucher,Gardien,New Zealand,"Nguyen, Bennett and Steele",160,856,51
+251,Brown,Darlene,23,Droitier,Attaquant,Jamaica,Thomas-Fry,843,357,36
+252,Miller,Curtis,15,Gaucher,Attaquant,Mali,Olson Inc,644,510,205
+253,Jackson,Cynthia,39,Droitier,Attaquant,Ukraine,"Ramos, Hooper and Hall",364,704,351
+254,Jenkins,Lucas,17,Droitier,Attaquant,Nicaragua,Blevins LLC,31,511,210
+255,Juarez,Lisa,41,Droitier,Milieu,Mexico,Cox-Campos,410,708,327
+256,Campos,Janice,31,Gaucher,Milieu,Mauritius,Ramos-Pearson,232,521,477
+257,Perry,Dean,26,Droitier,Attaquant,Hungary,Whitehead-Howell,138,491,416
+258,Valencia,Sara,23,Droitier,Attaquant,Trinidad and Tobago,"Page, Pena and Arnold",796,763,172
+259,Short,Benjamin,41,Droitier,Gardien,Peru,"Bryant, Gonzalez and Hansen",510,93,205
+260,Bautista,Jason,20,Droitier,Gardien,Indonesia,Green-Smith,798,384,296
+261,Gaines,Brittany,22,Droitier,Milieu,Canada,"Cook, Scott and Hopkins",59,187,171
+262,Benson,Kara,31,Droitier,Gardien,France,"Rose, Knapp and Taylor",600,748,17
+263,Barker,Michelle,30,Droitier,Défenseur,Austria,"Pearson, Barnes and Dunn",201,176,443
+264,Fisher,Charles,27,Droitier,Défenseur,Mozambique,"Golden, Jones and Jackson",47,564,350
+265,Martinez,Robert,29,Gaucher,Gardien,Liberia,Vega Group,345,265,209
+266,Murray,Patricia,35,Droitier,Défenseur,Antarctica (the territory South of 60 deg S),Weaver Inc,668,76,332
+267,Holland,Lisa,33,Droitier,Gardien,Botswana,Willis and Sons,873,173,258
+268,Cole,Aaron,27,Gaucher,Défenseur,Puerto Rico,Allen LLC,464,685,96
+269,Cruz,Tara,21,Gaucher,Attaquant,Congo,Robinson Inc,140,370,242
+270,West,Jacob,19,Gaucher,Milieu,Greece,Graham-Valenzuela,98,55,451
+271,Stein,William,40,Droitier,Milieu,South Georgia and the South Sandwich Islands,"Mcdowell, Cruz and Love",617,835,411
+272,Small,Joshua,38,Droitier,Défenseur,Somalia,Haynes-White,698,804,405
+273,Rose,Brandy,21,Droitier,Défenseur,Panama,Pierce PLC,617,80,417
+274,Rios,David,39,Droitier,Milieu,Libyan Arab Jamahiriya,"Peters, Houston and Good",494,186,277
+275,Thomas,Sharon,30,Gaucher,Gardien,Germany,"Butler, Monroe and Baker",394,738,213
+276,Martin,Eric,38,Gaucher,Attaquant,Guyana,"Howell, Ramirez and Williamson",114,100,243
+277,Klein,Rachel,35,Droitier,Milieu,Liberia,Stephens-Pace,2,893,3
+278,Bradley,Wanda,16,Gaucher,Milieu,Samoa,"Merritt, Williams and Mclaughlin",741,829,354
+279,Martin,Valerie,16,Droitier,Gardien,Azerbaijan,Johnson Group,732,186,288
+280,Deleon,Sara,34,Gaucher,Milieu,Ukraine,Barber Group,140,647,91
+281,Hanna,Nicholas,41,Gaucher,Gardien,Belarus,Burke Inc,748,633,83
+282,Gilmore,Christopher,32,Droitier,Attaquant,Ukraine,"Contreras, Chavez and Hanson",97,769,390
+283,Mccarthy,Tanya,37,Gaucher,Défenseur,Palau,"Reeves, Morales and Day",664,554,22
+284,Baird,Laurie,26,Gaucher,Milieu,French Southern Territories,Oconnor PLC,510,447,165
+285,Scott,Alexis,33,Droitier,Gardien,Norway,Wilson-Clements,405,813,451
+286,Chavez,Lisa,30,Gaucher,Défenseur,French Polynesia,"Brown, Mitchell and Frazier",824,843,206
+287,Hunter,Joshua,39,Gaucher,Attaquant,Nauru,"Hutchinson, Hahn and Warren",317,887,454
+288,Allen,Amanda,22,Droitier,Défenseur,Christmas Island,Curtis Ltd,336,732,69
+289,Park,Alan,20,Droitier,Attaquant,Azerbaijan,"Kane, Nelson and Willis",506,128,417
+290,Nelson,Brenda,39,Droitier,Attaquant,Hong Kong,Wood-Walker,298,456,465
+291,Leon,Jeremy,36,Gaucher,Gardien,Montserrat,Johnson LLC,444,254,363
+292,Smith,Michele,40,Droitier,Défenseur,Benin,Jenkins and Sons,189,271,420
+293,Avila,Mark,25,Droitier,Gardien,Niger,Howard-Roberts,315,274,342
+294,Roth,Jared,38,Gaucher,Défenseur,Mexico,Rodriguez Ltd,900,745,418
+295,George,Jillian,16,Droitier,Défenseur,Haiti,Perez-Patel,302,778,88
+296,Arellano,Deborah,22,Droitier,Défenseur,Vietnam,Smith Group,121,502,350
+297,Russo,Alexis,42,Droitier,Milieu,Guyana,Wells-Diaz,899,889,267
+298,Johnson,Donald,42,Droitier,Défenseur,Burkina Faso,Boone LLC,889,755,34
+299,Juarez,Craig,38,Gaucher,Défenseur,Fiji,Sanford-Hill,265,865,306
+300,Zavala,Eric,18,Droitier,Gardien,Vietnam,Collins Ltd,708,11,186
+301,Kline,Tracy,32,Droitier,Attaquant,Guinea-Bissau,Park and Sons,728,760,126
+302,Larson,Kathleen,31,Droitier,Défenseur,Saint Helena,Morgan and Sons,737,647,319
+303,Bruce,Anna,34,Gaucher,Gardien,South Africa,Turner PLC,139,771,356
+304,Hardy,Susan,41,Gaucher,Attaquant,Timor-Leste,"Hardin, Owens and Sanchez",746,711,193
+305,Campbell,Martin,19,Gaucher,Attaquant,Tunisia,"Flores, Guerrero and Cross",174,753,367
+306,Martin,Wendy,25,Gaucher,Attaquant,Heard Island and McDonald Islands,Daniels-Castro,78,232,102
+307,Scott,Isaac,34,Droitier,Milieu,Venezuela,King Ltd,591,770,95
+308,Barrett,Richard,40,Gaucher,Attaquant,French Southern Territories,Brennan-Wilson,767,554,402
+309,Reynolds,Billy,16,Droitier,Milieu,Burkina Faso,"Bowers, Duarte and Ibarra",557,242,380
+310,Lang,Samuel,36,Droitier,Défenseur,Cameroon,Day PLC,715,754,29
+311,Weaver,Joseph,31,Droitier,Défenseur,Saint Pierre and Miquelon,"Gomez, Rodriguez and Ingram",263,122,453
+312,Harper,Nicholas,19,Droitier,Attaquant,Guam,Thompson-Patel,461,843,205
+313,Garcia,Johnny,37,Gaucher,Gardien,Cyprus,"Kane, Neal and Higgins",818,493,419
+314,Estes,Laura,31,Gaucher,Milieu,China,Tran Group,699,209,496
+315,Cabrera,Deborah,17,Gaucher,Milieu,Saint Pierre and Miquelon,Garza and Sons,299,299,273
+316,Holland,Jocelyn,38,Droitier,Défenseur,Maldives,Myers-Powers,198,752,345
+317,Gomez,April,19,Gaucher,Milieu,Isle of Man,Knight-Gonzales,275,211,436
+318,Andrews,Christina,38,Gaucher,Milieu,British Virgin Islands,"Koch, Manning and Snyder",314,1,498
+319,Walker,Shane,37,Gaucher,Gardien,Guinea-Bissau,"Schmidt, Melendez and Larson",293,674,492
+320,Rivera,Anna,41,Droitier,Défenseur,Netherlands Antilles,Wilson-Jensen,794,347,276
+321,Burgess,Jesus,40,Gaucher,Défenseur,Guadeloupe,Boyle Inc,570,667,142
+322,Boyer,Kim,19,Gaucher,Défenseur,Brazil,"Baker, Olson and Drake",216,604,403
+323,Morgan,Ann,37,Droitier,Gardien,Luxembourg,Daniel Ltd,488,436,244
+324,Williams,Joshua,28,Gaucher,Défenseur,Isle of Man,Gomez-Leonard,553,844,26
+325,Dunn,Tara,34,Gaucher,Attaquant,Pitcairn Islands,Ball-Roach,791,584,404
+326,George,Jeremy,39,Gaucher,Attaquant,Ghana,"Arellano, Robinson and Gallagher",109,176,0
+327,Gray,Brandon,33,Gaucher,Attaquant,Cape Verde,"Cox, Lambert and Miller",309,614,220
+328,Murray,Joseph,20,Droitier,Attaquant,New Caledonia,Woods Ltd,771,445,419
+329,Hansen,Jason,30,Droitier,Attaquant,Myanmar,"Drake, Wilkinson and Poole",437,44,66
+330,Moon,Mary,27,Droitier,Gardien,Niger,"Shah, Rodriguez and Bonilla",169,390,421
+331,Bradley,Lauren,38,Gaucher,Défenseur,Australia,Pace-Soto,203,11,177
+332,Peterson,David,16,Gaucher,Milieu,Bermuda,Choi-Ellison,773,27,188
+333,Henson,Michael,25,Gaucher,Défenseur,Belarus,Cunningham-Bond,400,149,371
+334,Fox,Nicole,35,Droitier,Milieu,Greece,Mcgee-Garcia,148,737,386
+335,Williams,Brenda,32,Gaucher,Défenseur,Egypt,"Mahoney, White and Werner",793,817,287
+336,Sanchez,Douglas,23,Gaucher,Gardien,Cameroon,Thornton LLC,716,888,377
+337,Aguirre,Kimberly,19,Droitier,Attaquant,Japan,"Kramer, Harris and Crawford",808,830,216
+338,Walker,Brian,34,Gaucher,Gardien,Morocco,Zhang LLC,585,654,301
+339,Townsend,Nathan,35,Gaucher,Attaquant,Afghanistan,"Perez, Carson and Brown",358,483,26
+340,Hamilton,Natalie,29,Droitier,Attaquant,Bosnia and Herzegovina,"Powers, Eaton and Lewis",154,443,210
+341,Sherman,Douglas,27,Droitier,Milieu,Martinique,Hess Inc,665,764,266
+342,Barber,Carly,23,Gaucher,Attaquant,Rwanda,Mitchell-Avila,800,149,65
+343,Holder,Jennifer,23,Gaucher,Défenseur,Dominican Republic,Sanders-Lewis,841,262,172
+344,Anderson,Valerie,37,Droitier,Milieu,Myanmar,"Cross, Davis and Hall",17,100,34
+345,Harris,Daniel,22,Droitier,Gardien,Cayman Islands,Jones PLC,885,632,132
+346,Craig,Kevin,41,Droitier,Défenseur,Cook Islands,Hutchinson Inc,476,192,58
+347,Harrison,Bryan,26,Gaucher,Gardien,Kuwait,Miller PLC,624,880,204
+348,Gallegos,Bradley,21,Gaucher,Gardien,Bolivia,Savage-Moore,119,721,42
+349,Park,Jenny,41,Gaucher,Gardien,Peru,Oneill Inc,540,424,421
+350,Gray,Jeffrey,29,Droitier,Milieu,Brunei Darussalam,Silva-Payne,294,260,335
+351,Butler,Christopher,34,Droitier,Attaquant,Netherlands,Joyce-Sellers,32,258,137
+352,Hall,Donna,19,Droitier,Défenseur,Slovakia (Slovak Republic),Nunez-Black,577,739,190
+353,Melendez,Christy,35,Gaucher,Milieu,Holy See (Vatican City State),"Wilson, Thornton and Greene",258,745,177
+354,Santos,James,17,Gaucher,Milieu,Barbados,Townsend and Sons,64,418,132
+355,Caldwell,Krystal,37,Droitier,Milieu,Croatia,Curtis PLC,398,893,305
+356,Ramos,Michael,23,Gaucher,Attaquant,Saint Pierre and Miquelon,"Davis, Long and Cooley",727,519,419
+357,Gonzalez,Christopher,39,Gaucher,Défenseur,Panama,"Coleman, Parker and James",685,148,115
+358,Garcia,Jennifer,28,Gaucher,Défenseur,Iraq,"Gutierrez, Wade and Johnson",700,551,242
+359,Walker,Kendra,38,Gaucher,Milieu,Burundi,"Bauer, Yang and Evans",704,671,456
+360,Burns,Luke,29,Droitier,Attaquant,Mexico,Smith-Bruce,246,590,102
+361,Rodriguez,Paul,35,Gaucher,Milieu,Romania,"Garza, Jackson and Elliott",117,103,282
+362,Gilbert,Vanessa,17,Droitier,Attaquant,Italy,Guzman PLC,682,55,337
+363,Crawford,Stephanie,34,Droitier,Défenseur,Ukraine,Dean LLC,71,300,450
+364,Barrera,Kyle,26,Gaucher,Milieu,Congo,"Chandler, Poole and Zuniga",470,323,411
+365,Jones,Christina,29,Gaucher,Défenseur,Saint Lucia,"Cruz, Perry and Turner",494,347,310
+366,Jones,Shelly,28,Gaucher,Défenseur,Andorra,"Watson, Day and Brown",25,671,237
+367,Floyd,Angela,25,Gaucher,Défenseur,Antarctica (the territory South of 60 deg S),Mcneil Inc,219,590,429
+368,Hernandez,Susan,27,Gaucher,Attaquant,Vietnam,Williams-Hayes,466,154,207
+369,Wu,Claudia,38,Gaucher,Gardien,Panama,Knight-Briggs,240,617,20
+370,Lopez,Ryan,26,Gaucher,Gardien,Uganda,Lopez and Sons,823,507,295
+371,Wagner,Whitney,41,Droitier,Gardien,American Samoa,Douglas Group,341,292,231
+372,Ross,Aaron,30,Droitier,Défenseur,Sweden,"Hill, Salazar and Mcdonald",306,554,272
+373,Nolan,Daniel,22,Gaucher,Attaquant,Ukraine,Rodriguez-Johnson,523,209,268
+374,Roach,Michael,28,Gaucher,Gardien,Western Sahara,Moreno LLC,666,310,359
+375,Anderson,Shelly,41,Gaucher,Attaquant,Turks and Caicos Islands,Taylor and Sons,670,662,16
+376,Jackson,Benjamin,42,Gaucher,Milieu,China,Cervantes-Vega,544,886,264
+377,Kelly,Susan,40,Droitier,Défenseur,Aruba,Miller-Lopez,533,632,84
+378,Watkins,Herbert,17,Gaucher,Milieu,Kyrgyz Republic,Jimenez-Patterson,358,515,66
+379,Dixon,Emily,42,Droitier,Défenseur,Holy See (Vatican City State),"Reed, English and Munoz",280,792,244
+380,Norris,Rebecca,36,Droitier,Gardien,Mexico,Wilson LLC,577,378,398
+381,Berg,Anthony,39,Gaucher,Attaquant,Malta,"Stephens, Smith and Rose",837,320,398
+382,Robertson,William,16,Droitier,Milieu,Spain,Padilla-Decker,463,820,352
+383,Mccarthy,Tracy,38,Droitier,Défenseur,Portugal,Baxter and Sons,538,541,214
+384,Anderson,Grace,41,Gaucher,Attaquant,Saudi Arabia,Adams Inc,12,362,8
+385,Rocha,Joshua,41,Droitier,Attaquant,India,"Barrett, Farrell and Hall",568,543,409
+386,Alexander,Joseph,32,Gaucher,Défenseur,Croatia,Alexander Inc,852,778,234
+387,Landry,Ashley,23,Droitier,Milieu,Austria,Meadows and Sons,304,488,417
+388,Knight,Priscilla,29,Droitier,Gardien,Micronesia,Brewer-Mccall,744,699,338
+389,Moran,Todd,23,Gaucher,Défenseur,Nepal,Brown-Beck,751,229,417
+390,Knight,Kara,31,Droitier,Gardien,Germany,Chandler-Walters,888,833,30
+391,Edwards,George,28,Gaucher,Attaquant,Swaziland,"Austin, Smith and Martinez",730,886,16
+392,Berger,Alan,15,Droitier,Attaquant,Grenada,Cochran Inc,315,769,498
+393,Reese,Sean,34,Droitier,Gardien,Brazil,Nolan-Callahan,853,704,346
+394,Miller,Hunter,15,Droitier,Milieu,Tajikistan,Peterson Inc,694,199,375
+395,Ross,Robert,38,Gaucher,Défenseur,Portugal,Price-Jones,783,723,385
+396,Rodriguez,Richard,20,Gaucher,Attaquant,Solomon Islands,Moore Ltd,71,753,486
+397,Flores,Abigail,34,Gaucher,Gardien,Romania,Martinez-Fernandez,532,495,219
+398,Duffy,Jesse,40,Gaucher,Gardien,Niger,Foley Inc,16,320,427
+399,Nguyen,Kristen,34,Gaucher,Attaquant,Marshall Islands,Vaughn Ltd,344,433,52
+400,Nelson,Paul,33,Gaucher,Milieu,Madagascar,Smith-Cooper,557,29,454
+401,Hopkins,Alan,32,Gaucher,Défenseur,Gabon,"Nelson, Garcia and Allen",47,492,271
+402,Gonzalez,Carolyn,19,Gaucher,Milieu,Netherlands,Roach-Hoover,686,706,333
+403,Garrison,Brenda,32,Droitier,Gardien,Kazakhstan,Ayala PLC,788,198,45
+404,Decker,Kristen,19,Droitier,Attaquant,Palau,Cruz-Wiggins,237,145,129
+405,Rogers,Margaret,21,Droitier,Milieu,Lithuania,"Olsen, George and Sanchez",883,648,368
+406,Shelton,Melissa,37,Gaucher,Gardien,Lesotho,Robertson-Powell,223,483,24
+407,Chandler,Hannah,32,Gaucher,Milieu,Saint Helena,Jones-Henderson,141,317,9
+408,Green,Kimberly,26,Droitier,Gardien,Angola,Mann Group,405,44,309
+409,Mcintosh,David,27,Droitier,Milieu,Zimbabwe,Ortiz LLC,536,209,74
+410,Moore,Jacob,16,Droitier,Milieu,Norfolk Island,Jones Group,694,260,494
+411,Smith,Michael,41,Droitier,Gardien,Papua New Guinea,Tucker-Young,323,387,500
+412,Mathews,Leslie,17,Gaucher,Milieu,Pitcairn Islands,Scott-Hall,373,322,80
+413,Hart,Philip,22,Gaucher,Gardien,El Salvador,"Salazar, Ramsey and Hobbs",418,464,18
+414,Miller,Teresa,33,Gaucher,Milieu,Nicaragua,Reed-Smith,132,401,475
+415,Oconnell,Valerie,29,Droitier,Défenseur,Saint Pierre and Miquelon,"Massey, Schwartz and Jackson",750,643,234
+416,Ward,Danielle,37,Droitier,Défenseur,Mauritius,Moore Group,769,613,172
+417,Thompson,Carla,36,Gaucher,Défenseur,Georgia,Norris Inc,691,159,329
+418,Joseph,Joshua,26,Gaucher,Attaquant,Saint Vincent and the Grenadines,Morris LLC,154,303,428
+419,Wade,Shannon,26,Gaucher,Milieu,Tunisia,Smith-Edwards,768,374,373
+420,Gilbert,Gerald,16,Droitier,Défenseur,Kiribati,Johnson-Graham,787,562,245
+421,Gray,Lauren,39,Gaucher,Milieu,Mongolia,"Smith, Liu and Watson",265,883,120
+422,Wilson,Katrina,30,Droitier,Gardien,Saint Lucia,Brown and Sons,393,161,480
+423,Castro,Richard,15,Droitier,Attaquant,Philippines,Dunn PLC,231,604,7
+424,Stevenson,Anna,41,Droitier,Défenseur,Saint Kitts and Nevis,"Stark, Adams and Thomas",15,289,424
+425,Lewis,Susan,35,Gaucher,Attaquant,Timor-Leste,Hanson-Garcia,188,14,346
+426,Harris,April,41,Gaucher,Milieu,Vietnam,Wilson-Hudson,76,400,371
+427,Perry,Nicole,28,Droitier,Attaquant,India,"Jimenez, Wright and Thompson",402,128,228
+428,Douglas,Janet,18,Gaucher,Milieu,Tanzania,Goodman Group,98,440,278
+429,Hall,Lori,36,Droitier,Gardien,Ghana,Booker Inc,576,796,22
+430,Ibarra,Joseph,22,Gaucher,Attaquant,India,Thomas-Blair,124,401,188
+431,Gay,Colleen,42,Droitier,Milieu,Libyan Arab Jamahiriya,"Travis, Richardson and Dickerson",330,64,366
+432,Taylor,Jonathan,29,Gaucher,Attaquant,Belgium,Thompson-Burke,761,403,95
+433,Austin,Stephanie,32,Gaucher,Attaquant,San Marino,"Decker, Waters and Johnson",798,674,372
+434,Martin,Megan,32,Gaucher,Attaquant,Martinique,"Suarez, Morgan and Tucker",51,692,127
+435,Harris,Beverly,20,Gaucher,Milieu,Tuvalu,Martinez-Butler,521,695,312
+436,Chan,Kara,32,Gaucher,Défenseur,Cape Verde,"Wolf, Burns and Holland",430,716,419
+437,Clarke,Jennifer,34,Droitier,Attaquant,Papua New Guinea,Cunningham-Porter,608,113,44
+438,Gomez,Caleb,31,Gaucher,Gardien,Iceland,Perry Group,501,478,109
+439,Morgan,Timothy,24,Droitier,Attaquant,Andorra,Young Ltd,558,359,75
+440,Newton,Alan,28,Droitier,Attaquant,Lebanon,Scott-Stevens,752,749,117
+441,Villanueva,Sarah,23,Gaucher,Milieu,Azerbaijan,"Fowler, Randall and Collins",793,581,32
+442,Smith,Johnny,40,Gaucher,Défenseur,Cameroon,"Rojas, Bailey and Murphy",384,857,243
+443,White,Edwin,18,Droitier,Milieu,Mexico,Collins PLC,747,380,473
+444,Nelson,Carol,33,Gaucher,Attaquant,United States of America,"Goodwin, Smith and Turner",362,320,38
+445,Noble,Lisa,27,Droitier,Gardien,Tuvalu,"Johnson, Jimenez and Martin",815,137,146
+446,Banks,Carl,16,Gaucher,Gardien,Costa Rica,Mitchell Ltd,670,387,391
+447,Gray,Sarah,37,Droitier,Défenseur,Saint Vincent and the Grenadines,"Duran, Haney and Johnson",586,887,459
+448,Peters,Anna,15,Droitier,Milieu,Suriname,Garcia and Sons,60,748,1
+449,Guerra,David,40,Droitier,Défenseur,Czech Republic,"Johnson, Phelps and Browning",432,770,276
+450,Chavez,Austin,39,Gaucher,Milieu,Saint Helena,Owens-Wu,394,309,60
+451,Mason,Robert,42,Droitier,Gardien,Chad,Lawrence LLC,156,582,24
+452,Crosby,Frank,19,Gaucher,Attaquant,Uganda,"Flores, Bray and Woods",876,98,346
+453,Phillips,Philip,42,Gaucher,Défenseur,Korea,Hunt-Rios,619,506,167
+454,Ritter,Brenda,41,Gaucher,Défenseur,Christmas Island,Mcdonald-Hunt,389,403,435
+455,Waller,Todd,20,Droitier,Attaquant,Mozambique,"Roberts, Barnes and Woods",659,244,423
+456,Collier,Lisa,36,Gaucher,Milieu,Singapore,Clark-Roy,803,76,273
+457,Sharp,David,38,Gaucher,Défenseur,Croatia,"Williams, Howard and Pearson",515,535,49
+458,Sloan,Christopher,41,Droitier,Défenseur,Lithuania,Wheeler LLC,703,445,444
+459,Wilcox,Crystal,38,Droitier,Attaquant,Afghanistan,Mitchell Ltd,409,467,407
+460,Castillo,Katie,21,Gaucher,Attaquant,Georgia,Cook-Jones,86,874,97
+461,Stevens,Jessica,18,Gaucher,Gardien,Guernsey,Griffin-Pierce,151,499,485
+462,Miller,Karen,39,Droitier,Milieu,Bahrain,"Ellison, Little and Camacho",134,783,273
+463,Sawyer,Stephen,26,Gaucher,Défenseur,Tokelau,"Perez, Cole and Hall",712,616,158
+464,Ryan,Sarah,15,Gaucher,Attaquant,Mauritania,"White, Valdez and Rodriguez",322,275,489
+465,Long,Zachary,41,Gaucher,Gardien,Oman,Franco Group,164,755,39
+466,Stevens,Jessica,38,Droitier,Milieu,Slovakia (Slovak Republic),"Powell, Gaines and Simon",730,349,279
+467,Dixon,Kenneth,32,Gaucher,Milieu,Central African Republic,Delgado Inc,578,60,30
+468,Vaughan,Katelyn,40,Gaucher,Attaquant,Iceland,"Reid, Patterson and Day",261,160,216
+469,Forbes,Crystal,33,Droitier,Gardien,China,Lopez PLC,354,895,246
+470,Blake,Lisa,27,Gaucher,Gardien,Greece,Ayers-Lane,682,371,235
+471,Larsen,Christina,16,Gaucher,Défenseur,Liechtenstein,Pope and Sons,137,797,300
+472,Ross,Mitchell,24,Droitier,Défenseur,Bolivia,Sullivan-James,547,641,239
+473,Pierce,Philip,41,Droitier,Gardien,Falkland Islands (Malvinas),"Stephens, Lamb and Richardson",826,845,190
+474,Hernandez,Benjamin,23,Droitier,Gardien,Morocco,Houston-Smith,854,418,308
+475,Olson,Trevor,31,Droitier,Défenseur,Egypt,Williams-Rodriguez,819,805,273
+476,Anderson,Leslie,15,Gaucher,Milieu,Antigua and Barbuda,Frank LLC,236,523,222
+477,Klein,Alex,30,Gaucher,Milieu,Guatemala,Shah Inc,497,762,0
+478,Rodriguez,Julie,22,Gaucher,Attaquant,Malawi,Taylor-Bauer,93,891,341
+479,Heath,Kristina,32,Droitier,Défenseur,United States Virgin Islands,Jones LLC,147,645,489
+480,Sandoval,Yolanda,17,Gaucher,Milieu,Kyrgyz Republic,Simmons PLC,342,236,314
+481,Mitchell,Patricia,19,Gaucher,Gardien,Suriname,"Jimenez, Banks and Mcdaniel",502,353,235
+482,Vasquez,Brandon,35,Droitier,Défenseur,Barbados,"Stewart, Roy and Rodriguez",532,96,285
+483,Mitchell,Melody,34,Droitier,Gardien,Nauru,Weber-Graham,847,127,428
+484,Duncan,Alexis,34,Gaucher,Défenseur,Costa Rica,Wise-Vasquez,443,602,288
+485,Wheeler,Dennis,40,Droitier,Gardien,Cocos (Keeling) Islands,Cook PLC,348,406,22
+486,Maldonado,Andrew,36,Droitier,Gardien,Singapore,Jacobs Group,392,328,187
+487,Brown,Jonathon,39,Droitier,Attaquant,Ethiopia,Hahn-King,460,207,102
+488,Watson,Anthony,34,Gaucher,Défenseur,Gibraltar,Martinez-Hall,691,250,62
+489,Clark,Michael,33,Gaucher,Défenseur,Brazil,Cabrera-Thompson,732,124,10
+490,Hicks,Christina,32,Droitier,Gardien,Malaysia,"Moore, Parker and Waters",412,547,230
+491,Sandoval,Steven,34,Gaucher,Défenseur,Pakistan,Stewart and Sons,881,469,75
+492,Hart,Craig,33,Droitier,Défenseur,Tonga,Patrick-Nguyen,100,128,470
+493,Kirk,Melissa,19,Gaucher,Gardien,France,"Becker, Burns and Clark",86,560,124
+494,Fischer,Tracey,23,Gaucher,Défenseur,Belarus,Mora-Brennan,30,604,500
+495,Smith,Brett,19,Droitier,Gardien,Austria,Koch-Blake,228,615,229
+496,Anderson,Nicole,15,Droitier,Attaquant,Solomon Islands,Miranda Group,618,153,342
+497,Haynes,Sarah,18,Gaucher,Défenseur,Sri Lanka,Norris-Martin,320,415,364
+498,Burns,Taylor,17,Gaucher,Gardien,Thailand,Young Ltd,164,516,324
+499,Chandler,Nathaniel,34,Droitier,Attaquant,Benin,Ferguson-Chapman,625,3,190
+500,Edwards,David,27,Gaucher,Attaquant,Singapore,"Harris, Hernandez and Peterson",891,453,486
