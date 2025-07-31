@@ -33,4 +33,4 @@ with open('operators.json', 'w', newline='', encoding='utf-8') as f:
         if len(data) == 4:
             writer.writerow(data)
 
-print("Terminé! Fichier: operators.json")
+print("Terminé! Fichier: operators.json") 

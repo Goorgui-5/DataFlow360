@@ -1,0 +1,101 @@
+passager_count,timestamp,vehicle_id,stop_id,boarding,alighting
+26,2025-02-05 18:10:35,33-LA76,Stop_01,false,true
+7,2025-03-09 16:40:49,181 KSW,Stop_01,true,false
+38,2024-10-17 23:53:08,NR6 V2S,Stop_08,true,true
+7,2024-12-29 14:05:29,EX2 4253,Stop_01,true,true
+16,2024-09-30 08:03:11,40871,Stop_06,true,false
+38,2024-10-19 01:57:26,KNM 372,Stop_02,false,true
+27,2024-08-01 01:12:52,E05 0WH,Stop_02,false,true
+29,2024-08-09 02:09:14,484-PFX,Stop_06,true,false
+39,2025-02-17 05:24:44,1IJ 068,Stop_012,true,false
+54,2025-07-09 12:58:23,8VO11,Stop_08,false,true
+60,2025-06-18 07:07:41,159-SPK,Stop_04,false,false
+6,2024-10-21 05:16:58,JVR-403,Stop_01,false,true
+36,2025-05-05 03:47:25,40871,Stop_015,false,false
+51,2025-05-19 01:30:52,NR6 V2S,Stop_014,true,true
+30,2024-11-12 18:15:56,40-9380L,Stop_06,true,true
+17,2024-12-12 00:05:13,KNM 372,Stop_04,true,false
+32,2025-01-12 21:19:16,MIB 783,Stop_04,true,true
+30,2024-11-28 18:28:52,484-PFX,Stop_05,true,true
+45,2024-11-08 01:03:28,52-83272,Stop_011,true,false
+26,2025-05-25 01:48:17,415 OVP,Stop_08,true,false
+27,2024-10-14 11:02:54,TFG-868,Stop_011,false,false
+52,2025-01-18 13:13:17,02R-LBHA,Stop_02,true,true
+48,2025-01-28 14:01:37,TFG-868,Stop_03,true,false
+58,2025-04-30 10:11:53,9Z-CMPO,Stop_09,true,true
+19,2025-05-09 20:46:14,EW0 1288,Stop_010,true,false
+27,2025-04-22 18:05:04,ZFI 852,Stop_015,false,true
+48,2025-01-24 02:28:39,MIB 783,Stop_01,true,true
+11,2025-03-23 11:33:11,A20-ZYN,Stop_013,false,false
+58,2025-07-28 14:54:52,KCZ-816,Stop_010,true,true
+19,2025-07-09 09:52:00,T79 7QX,Stop_010,false,true
+7,2024-12-03 05:26:06,PVO 6936,Stop_011,false,true
+48,2025-02-07 12:03:12,JVR-403,Stop_011,false,false
+50,2024-08-22 05:34:48,368 BAJ,Stop_015,false,true
+46,2025-05-28 05:28:42,9Z-CMPO,Stop_014,false,false
+64,2024-10-29 15:45:10,12Q 777,Stop_010,true,false
+36,2025-01-19 01:23:33,01-RI69,Stop_05,true,false
+36,2025-05-16 13:09:54,9Z-CMPO,Stop_014,false,true
+54,2025-05-04 20:38:35,256CB,Stop_06,true,true
+24,2025-03-07 20:58:07,EI 8495,Stop_04,false,false
+23,2024-12-18 03:39:01,634 LGE,Stop_014,false,false
+65,2024-12-26 13:29:01,9083 TJ,Stop_03,false,true
+26,2025-06-06 00:28:34,YSW-5458,Stop_015,false,false
+58,2025-03-26 04:57:23,6A 7B7FZY,Stop_02,false,true
+9,2024-12-15 12:05:25,T79 7QX,Stop_014,false,true
+13,2024-09-29 22:45:51,0KYC670,Stop_06,true,false
+10,2024-12-10 02:33:30,4H 9498A,Stop_02,true,true
+42,2024-12-04 17:29:15,575 HNG,Stop_01,false,false
+11,2025-06-15 09:06:26,JVR-403,Stop_015,false,true
+10,2025-03-01 17:25:19,368 BAJ,Stop_012,true,false
+6,2025-02-06 19:20:19,181 KSW,Stop_010,false,false
+7,2025-05-08 09:14:34,KNM 372,Stop_010,false,true
+30,2025-03-29 13:20:14,6A 7B7FZY,Stop_012,true,true
+25,2025-02-24 14:27:40,9083 TJ,Stop_07,false,false
+26,2025-03-11 15:34:01,EFO-4867,Stop_05,false,false
+31,2024-08-24 05:57:37,051 1VS,Stop_015,false,false
+8,2024-09-27 23:18:04,4H 9498A,Stop_04,false,true
+55,2024-09-08 01:33:53,01-RI69,Stop_03,true,true
+28,2024-10-24 18:38:09,484-PFX,Stop_014,true,true
+9,2025-05-19 14:36:52,2Z 1217P,Stop_015,false,true
+26,2025-05-02 23:28:13,96-25945,Stop_09,true,false
+41,2024-09-18 10:28:00,E53-ZUZ,Stop_011,true,true
+37,2025-05-14 15:52:59,0N714,Stop_07,true,false
+56,2025-01-05 06:05:59,5MB7090,Stop_010,true,true
+9,2025-01-06 01:35:12,368 BAJ,Stop_05,true,true
+14,2025-07-14 13:23:13,GV6 D4F,Stop_05,false,true
+7,2024-09-01 21:23:32,E53-ZUZ,Stop_012,false,true
+26,2025-02-11 06:59:07,EI 8495,Stop_010,true,false
+20,2024-08-03 05:40:01,9KC B23,Stop_07,true,false
+25,2025-05-09 12:28:42,585-OZS,Stop_013,true,false
+13,2024-08-25 22:50:41,GV6 D4F,Stop_07,false,true
+42,2025-07-25 21:35:29,5S 4P3EAP,Stop_014,false,true
+36,2025-01-18 14:42:01,53Z R83,Stop_07,false,false
+24,2025-07-05 05:57:22,M89 4DR,Stop_02,false,false
+59,2024-10-28 16:42:32,90-HZ42,Stop_02,false,false
+49,2025-05-19 20:29:24,TFG-868,Stop_04,true,false
+36,2025-06-17 23:16:59,YSW-5458,Stop_08,true,false
+14,2024-10-17 07:00:11,12Q 777,Stop_010,false,false
+22,2025-05-02 17:43:39,9KC B23,Stop_01,true,true
+57,2025-02-17 08:43:30,40-9380L,Stop_015,true,true
+24,2025-02-10 09:56:58,M89 4DR,Stop_04,false,false
+7,2025-06-13 13:23:30,2HT3948,Stop_014,false,true
+15,2025-06-26 02:26:16,PVO 6936,Stop_09,true,true
+61,2025-01-23 10:45:03,77-X478,Stop_015,false,true
+41,2024-08-01 03:14:35,NR6 V2S,Stop_07,true,false
+11,2025-05-25 22:29:44,386WB,Stop_01,false,false
+16,2025-05-21 18:36:17,9KC B23,Stop_03,true,false
+64,2025-07-03 01:21:32,9Z-CMPO,Stop_011,false,false
+60,2024-09-04 21:26:04,541 DTM,Stop_012,false,true
+64,2024-09-17 14:18:40,GKF7934,Stop_02,false,false
+52,2024-08-18 22:24:37,4-59428Q,Stop_010,false,false
+18,2024-08-05 08:47:39,53-K964,Stop_013,false,false
+65,2024-11-08 08:24:48,1-T5687,Stop_014,true,false
+34,2024-08-05 17:28:03,4-59428Q,Stop_06,false,false
+40,2025-06-11 16:07:52,8VO11,Stop_03,true,true
+17,2025-06-27 05:22:05,ZDL-682,Stop_06,true,true
+59,2025-05-27 14:35:31,10-RR80,Stop_012,false,false
+28,2025-07-27 07:16:40,2HT3948,Stop_06,false,false
+21,2025-05-11 02:30:10,JHR-7084,Stop_03,false,true
+65,2025-01-06 23:48:42,6A 7B7FZY,Stop_012,true,true
+64,2025-02-18 07:38:37,TFG-868,Stop_01,false,false

@@ -1,0 +1,101 @@
+vehicule_id,type_transport,company_name,capacity_fuel_type,status
+42-40871,Bus,BRT,Diesel,Garé
+5MB7090,Bus,Dakar Dem Dikk,Diesel,En service
+EW0 1288,Car Rapide,Car Rapide Dakar,Diesel,Garé
+159-SPK,Moto,Moto Taxi,Essence,Garé
+6KKI947,Bus,Dakar Dem Dikk,Diesel,En service
+CK-1635,Bus,Dakar Dem Dikk,Diesel,En maintenance
+4CE 163,Moto,Moto Taxi,Essence,En service
+386WB,Train,TER,Electrique,Garé
+98O GK3,Car Rapide,Car Rapide Dakar,Diesel,En maintenance
+9KC B23,Moto,Yango Moto,Essence,En maintenance
+10-RR80,Bus,BRT,Diesel,Garé
+EI 8495,Bus,AFTU,Electrique,En panne
+KNM 372,Train,TER,Electrique,En panne
+9083 TJ,Car Rapide,Car Rapide Dakar,Diesel,En maintenance
+90-HZ42,Bus,AFTU,Electrique,En service
+MMS 847,Bus,BRT,Diesel,Garé
+JHR-7084,Bus,AFTU,Electrique,En panne
+5S 4P3EAP,Bus,Dakar Dem Dikk,Diesel,En service
+DX 7275,Moto,Moto Taxi,Essence,Hors service
+634 LGE,Taxi,Taxi Dakar,Diesel,Hors service
+447 VWU,Train,TER,Electrique,Garé
+GV6 D4F,Bus,BRT,Diesel,En service
+KCZ-816,Moto,Moto Taxi,Essence,En service
+LNI 946,Moto,Yango Moto,Essence,En maintenance
+3O 7723F,Taxi,Taxi Dakar,Diesel,En service
+YSW-5458,Train,TER,Electrique,En panne
+766 HJY,Bus,BRT,Diesel,En panne
+8E-YXTC,Moto,Moto Taxi,Essence,En service
+541 DTM,Moto,Yango Moto,Essence,En panne
+ZFI 852,Taxi,Taxi Dakar,Diesel,Hors service
+NJO 097,Train,TER,Electrique,Hors service
+E05 0WH,Taxi,Uber,Essence,En maintenance
+0N714,Bus,BRT,Diesel,En maintenance
+RSS 3235,Taxi,Taxi Dakar,Diesel,Hors service
+52-83272,Bus,BRT,Diesel,En service
+T79 7QX,Car Rapide,Car Rapide Dakar,Diesel,Garé
+EX2 4253,Bus,AFTU,Electrique,Garé
+NR6 V2S,Moto,Moto Taxi,Essence,En service
+1SX 956,Bus,AFTU,Electrique,En service
+484-PFX,Taxi,Yango,Essence,En service
+LQ 5837,Taxi,Taxi Dakar,Diesel,En maintenance
+8VO11,Train,TER,Electrique,Hors service
+01-RI69,Taxi,Yango,Essence,En service
+1-T5687,Bus,Dakar Dem Dikk,Diesel,Hors service
+MIB 783,Bus,BRT,Diesel,Garé
+40-9380L,Bus,AFTU,Electrique,En service
+33-LA76,Taxi,Taxi Dakar,Diesel,Hors service
+2HT3948,Moto,Moto Taxi,Essence,En service
+QAE 968,Moto,Yango Moto,Essence,En maintenance
+ZDL-682,Moto,Moto Taxi,Essence,En panne
+329 ZRJ,Taxi,Yango,Essence,En panne
+02R-LBHA,Bus,BRT,Diesel,Hors service
+35ZU8,Bus,Dakar Dem Dikk,Diesel,En service
+97Z 310,Bus,AFTU,Electrique,En panne
+96-25945,Bus,AFTU,Electrique,En maintenance
+368 BAJ,Moto,Moto Taxi,Essence,En maintenance
+0KYC670,Moto,Moto Taxi,Essence,En service
+TFG-868,Taxi,Taxi Dakar,Diesel,Hors service
+9H 48036,Taxi,Taxi Dakar,Diesel,En maintenance
+E53-ZUZ,Taxi,Uber,Essence,En maintenance
+GKF7934,Train,TER,Electrique,En service
+264L2,Train,TER,Electrique,En panne
+2Z 1217P,Bus,AFTU,Electrique,Hors service
+12Q 777,Moto,Yango Moto,Essence,Hors service
+415 OVP,Moto,Moto Taxi,Essence,En maintenance
+6A 7B7FZY,Moto,Moto Taxi,Essence,Hors service
+PVO 6936,Bus,Dakar Dem Dikk,Diesel,En panne
+24XO4,Moto,Moto Taxi,Essence,Hors service
+FOK2951,Moto,Moto Taxi,Essence,En maintenance
+9Z-CMPO,Bus,AFTU,Electrique,En service
+1-58409,Bus,BRT,Diesel,En maintenance
+575 HNG,Taxi,Uber,Essence,Hors service
+4H 9498A,Moto,Moto Taxi,Essence,Hors service
+A20-ZYN,Moto,Moto Taxi,Essence,En panne
+937SAT,Moto,Yango Moto,Essence,Garé
+585-OZS,Car Rapide,Car Rapide Dakar,Diesel,En maintenance
+53Z R83,Car Rapide,Car Rapide Dakar,Diesel,Hors service
+LAB 884,Moto,Moto Taxi,Essence,En service
+97FS152,Train,TER,Electrique,En service
+1PG 083,Bus,Dakar Dem Dikk,Diesel,En panne
+4-59428Q,Moto,Yango Moto,Essence,Garé
+65-07417,Taxi,Yango,Essence,En maintenance
+EFO-4867,Moto,Yango Moto,Essence,Garé
+HGS 008,Taxi,Yango,Essence,En service
+804 9RT,Taxi,Yango,Essence,Garé
+M89 4DR,Bus,Dakar Dem Dikk,Diesel,Garé
+181 KSW,Moto,Yango Moto,Essence,Garé
+853 6579,Bus,AFTU,Electrique,Garé
+256CB,Train,TER,Electrique,En service
+6-5951I,Moto,Yango Moto,Essence,En service
+SWA-630,Bus,Dakar Dem Dikk,Diesel,En panne
+53-K964,Taxi,Yango,Essence,En panne
+JVR-403,Bus,BRT,Diesel,En panne
+77-X478,Taxi,Uber,Essence,Garé
+051 1VS,Bus,BRT,Diesel,Hors service
+8NI L64,Bus,Dakar Dem Dikk,Diesel,En maintenance
+1IJ 068,Moto,Moto Taxi,Essence,Garé
+34BY1,Bus,BRT,Diesel,Hors service
+45Q E65,Bus,Dakar Dem Dikk,Diesel,Hors service
+147-QGZR,Bus,BRT,Diesel,En service

@@ -1,0 +1,101 @@
+incident_id,vehicule_id,timestamp,description,delay_minutes,severity
+INC_290,9H 48036,2024-10-18 09:06:12,Accident mineur,110,5
+INC_380,33-LA76,2025-01-26 14:32:11,Panne moteur,40,1
+INC_167,1-58409,2024-09-17 03:01:21,Collision avec un autre véhicule,50,4
+INC_373,E53-ZUZ,2024-12-13 05:46:08,Collision avec un autre véhicule,64,3
+INC_151,24XO4,2024-12-12 10:27:34,Pneumatique crevé,17,3
+INC_123,9H 48036,2024-09-12 19:09:03,Accident mineur,99,2
+INC_278,35ZU8,2025-03-08 10:48:43,Incident de sécurité,91,1
+INC_296,NR6 V2S,2024-12-22 13:43:56,Incident de sécurité,34,2
+INC_206,853 6579,2024-12-20 22:12:19,Pneumatique crevé,36,3
+INC_154,01-RI69,2024-11-14 12:23:10,Accident mineur,84,4
+INC_354,10-RR80,2025-01-15 02:11:23,Panne moteur,27,5
+INC_265,1SX 956,2024-12-03 01:28:06,Pneumatique crevé,105,4
+INC_154,EW0 1288,2025-04-11 03:17:33,Problème électrique,119,2
+INC_113,329 ZRJ,2024-12-03 04:04:14,Problème électrique,96,1
+INC_309,1-58409,2025-07-17 04:27:44,Accident mineur,89,4
+INC_302,3O 7723F,2024-11-14 19:49:08,Incident de sécurité,31,1
+INC_389,QAE 968,2025-05-24 18:10:47,Accident mineur,71,1
+INC_335,159-SPK,2024-09-09 07:16:48,Pneumatique crevé,26,5
+INC_318,2HT3948,2025-03-01 08:33:18,Accident mineur,105,1
+INC_267,M89 4DR,2025-02-17 07:48:54,Panne moteur,69,5
+INC_233,GKF7934,2024-10-20 23:46:53,Incident de sécurité,68,4
+INC_343,DX 7275,2025-07-02 06:04:17,Panne moteur,5,1
+INC_242,LQ 5837,2025-06-29 03:21:21,Incident de sécurité,61,1
+INC_144,9083 TJ,2024-09-23 07:28:06,Panne moteur,89,2
+INC_160,QAE 968,2025-07-04 16:46:57,Incident de sécurité,99,1
+INC_223,EX2 4253,2024-08-06 21:01:21,Problème électrique,114,2
+INC_385,52-83272,2025-04-08 15:44:10,Accident mineur,3,2
+INC_281,1IJ 068,2024-09-25 01:30:04,Collision avec un autre véhicule,32,2
+INC_118,8NI L64,2024-11-26 07:30:09,Pneumatique crevé,13,5
+INC_207,97Z 310,2025-02-07 11:09:12,Pneumatique crevé,81,4
+INC_210,QAE 968,2025-04-13 23:30:41,Collision avec un autre véhicule,104,3
+INC_281,0N714,2025-06-22 00:46:37,Accident mineur,92,1
+INC_331,98O GK3,2024-12-14 01:30:24,Panne moteur,107,2
+INC_228,447 VWU,2024-09-09 08:23:32,Accident majeur,37,3
+INC_139,YSW-5458,2025-05-25 16:31:47,Collision avec un autre véhicule,53,1
+INC_265,051 1VS,2024-11-04 23:02:02,Incident de sécurité,96,2
+INC_339,DX 7275,2024-10-09 17:43:47,Pneumatique crevé,38,1
+INC_214,01-RI69,2025-04-02 00:45:59,Panne moteur,22,3
+INC_389,181 KSW,2025-01-25 06:27:29,Panne moteur,80,1
+INC_148,159-SPK,2025-04-14 04:57:11,Incident de sécurité,34,3
+INC_397,1SX 956,2024-08-15 17:32:21,Collision avec un autre véhicule,61,5
+INC_159,E05 0WH,2025-05-08 02:15:55,Accident mineur,11,5
+INC_359,766 HJY,2025-06-18 02:31:37,Accident mineur,3,5
+INC_127,MMS 847,2024-11-11 05:01:28,Accident mineur,77,2
+INC_276,ZFI 852,2025-02-06 06:55:18,Accident mineur,31,4
+INC_236,804 9RT,2025-04-01 23:31:42,Pneumatique crevé,45,5
+INC_204,M89 4DR,2024-11-27 03:04:07,Panne moteur,34,4
+INC_123,386WB,2025-03-02 04:32:09,Incident de sécurité,47,4
+INC_183,TFG-868,2025-03-10 01:21:48,Incident de sécurité,105,3
+INC_309,HGS 008,2025-01-28 23:30:46,Incident de sécurité,40,3
+INC_294,E05 0WH,2024-09-21 07:53:28,Panne moteur,1,1
+INC_390,KCZ-816,2024-10-18 13:51:00,Pneumatique crevé,90,5
+INC_365,MIB 783,2024-08-02 16:58:39,Collision avec un autre véhicule,80,4
+INC_141,484-PFX,2025-07-22 03:14:24,Collision avec un autre véhicule,95,3
+INC_234,GV6 D4F,2025-01-18 23:26:46,Pneumatique crevé,35,3
+INC_300,GV6 D4F,2025-01-24 14:34:38,Accident majeur,110,1
+INC_204,EX2 4253,2025-04-04 16:00:21,Pneumatique crevé,61,1
+INC_275,541 DTM,2025-02-01 01:45:42,Pneumatique crevé,44,5
+INC_226,LQ 5837,2025-04-07 07:59:31,Accident mineur,115,5
+INC_306,PVO 6936,2024-08-22 22:19:53,Panne moteur,88,4
+INC_385,1PG 083,2025-04-22 15:22:03,Collision avec un autre véhicule,6,1
+INC_369,01-RI69,2024-12-07 07:48:37,Collision avec un autre véhicule,100,2
+INC_166,PVO 6936,2024-11-07 06:00:42,Incident de sécurité,104,5
+INC_206,77-X478,2024-08-06 03:43:41,Panne moteur,70,4
+INC_229,NR6 V2S,2025-05-01 15:14:52,Incident de sécurité,106,3
+INC_176,575 HNG,2025-04-15 00:45:06,Panne moteur,88,3
+INC_318,GV6 D4F,2025-01-20 01:38:06,Accident mineur,26,4
+INC_256,0N714,2024-08-09 03:41:18,Panne moteur,9,3
+INC_140,35ZU8,2025-05-16 22:57:07,Pneumatique crevé,20,3
+INC_209,FOK2951,2024-11-11 15:05:57,Accident mineur,33,5
+INC_299,45Q E65,2025-04-14 19:26:11,Accident majeur,30,3
+INC_291,NR6 V2S,2025-02-13 15:26:57,Panne moteur,27,3
+INC_338,98O GK3,2025-02-22 02:20:35,Accident mineur,117,2
+INC_314,97FS152,2024-11-14 15:37:49,Pneumatique crevé,104,5
+INC_265,937SAT,2025-06-07 12:02:59,Pneumatique crevé,85,2
+INC_190,368 BAJ,2025-05-13 17:32:10,Problème électrique,92,5
+INC_231,33-LA76,2025-05-02 17:36:01,Collision avec un autre véhicule,44,1
+INC_199,LNI 946,2024-10-08 23:04:23,Incident de sécurité,40,5
+INC_206,EI 8495,2025-07-05 19:18:16,Collision avec un autre véhicule,40,5
+INC_375,LNI 946,2025-01-04 03:42:02,Accident majeur,16,3
+INC_196,97Z 310,2025-07-16 13:48:37,Accident mineur,12,5
+INC_212,575 HNG,2024-12-08 22:00:50,Pneumatique crevé,114,2
+INC_224,90-HZ42,2024-09-23 14:04:31,Problème électrique,73,4
+INC_183,8NI L64,2025-05-12 22:53:47,Panne moteur,79,4
+INC_235,1IJ 068,2025-01-10 19:38:40,Incident de sécurité,70,5
+INC_138,02R-LBHA,2025-05-08 02:14:47,Pneumatique crevé,93,5
+INC_382,53Z R83,2025-06-03 15:16:04,Pneumatique crevé,117,4
+INC_134,CK-1635,2024-10-29 15:57:06,Accident mineur,61,5
+INC_393,575 HNG,2025-02-21 04:49:52,Accident majeur,30,3
+INC_337,NJO 097,2024-12-08 16:17:23,Accident mineur,20,2
+INC_292,0N714,2024-12-12 23:13:41,Pneumatique crevé,77,5
+INC_222,40871,2024-08-16 10:08:26,Problème électrique,86,4
+INC_207,ZDL-682,2025-01-05 15:43:43,Pneumatique crevé,80,2
+INC_311,97Z 310,2024-08-15 03:47:47,Panne moteur,4,4
+INC_338,77-X478,2024-11-27 20:45:19,Accident majeur,50,3
+INC_360,ZFI 852,2024-12-12 14:42:53,Panne moteur,39,2
+INC_343,NR6 V2S,2025-05-24 15:10:14,Collision avec un autre véhicule,87,4
+INC_351,E05 0WH,2025-01-18 20:57:58,Collision avec un autre véhicule,53,3
+INC_365,10-RR80,2024-10-16 20:10:53,Panne moteur,55,3
+INC_107,1-58409,2025-07-08 20:15:34,Accident mineur,48,4
