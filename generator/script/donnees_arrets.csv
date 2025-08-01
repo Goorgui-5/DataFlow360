@@ -1,101 +1,101 @@
 stop_id,name,latitude,longitude,zone,shelter
-Stop_015,liberte 6,3.402240,167.682375,Zone Nord,true
-Stop_08,DIEUPPEUL,-46.9477075,-135.358546,Zone Sud,true
-Stop_015,liberte 6,-30.7994945,-104.053749,Zone Sud,true
-Stop_01,PARCELLE,-61.8491945,84.363077,Zone Nord,false
-Stop_02,GUEULE TAPEE,-2.0596635,-102.886991,centre ville,false
-Stop_03,OUAKAM,1.8507175,177.869175,Zone Sud,true
-Stop_015,THIAROYE,-87.901012,101.762971,Zone Sud,true
-Stop_04,GUEDIAWAYE,-34.833971,32.460624,Zone Sud,true
-Stop_011,FANN,-77.074683,-141.240665,Zone Nord,true
-Stop_05,GUEDIAWAYE,-6.2978705,21.080005,centre ville,false
-Stop_07,grand dakar,-13.3571065,123.598686,Zone Nord,true
-Stop_07,grand dakar,-82.395423,-3.042053,Zone Est,false
-Stop_013,SACRE COEUR,-21.519179,51.610592,Zone Sud,false
-Stop_011,PIKINE,-63.772194,-144.767615,Zone Ouest,true
-Stop_08,DIEUPPEUL,34.3069545,161.600185,Zone Nord,true
-Stop_07,grand yoff,44.0517855,46.532958,Zone Sud,false
-Stop_01,PARCELLE,-45.8322615,35.209785,centre ville,true
-Stop_02,GUEULE TAPEE,41.365714,129.572981,centre ville,false
-Stop_09,DIEUPPEUL,11.8025755,42.903986,Zone Ouest,false
-Stop_02,GUEULE TAPEE,77.0800705,-156.041436,centre ville,true
-Stop_013,sicap karack,-74.458241,134.782213,Zone Ouest,true
-Stop_08,DIEUPPEUL,78.212952,157.288580,Zone Sud,true
-Stop_010,SACRE COEUR,-22.9300915,-2.259606,centre ville,false
-Stop_09,MALIKA,-37.897672,152.029601,Zone Ouest,false
-Stop_01,GUEULE TAPEE,-37.400878,159.501535,Zone Est,true
-Stop_09,MALIKA,32.293895,-47.053917,Zone Nord,true
-Stop_08,yoff,83.113440,165.761952,Zone Ouest,false
-Stop_06,GUEDIAWAYE,-58.866945,-177.822382,Zone Sud,true
-Stop_01,SACRE COEUR,56.916205,-47.103816,centre ville,false
-Stop_06,sicap,-82.2681875,-31.503760,Zone Est,false
-Stop_04,grand yoff,42.7634685,-106.190984,Zone Nord,true
-Stop_010,grand yoff,-83.5990455,52.220006,Zone Nord,false
-Stop_01,GUEULE TAPEE,-85.2489345,17.562977,Zone Est,true
-Stop_09,MALIKA,-1.3134475,26.476022,Zone Est,false
-Stop_01,GUEULE TAPEE,27.7204435,98.190464,centre ville,true
-Stop_013,sicap karack,-15.892883,-133.146880,centre ville,false
-Stop_013,THIAROYE,15.8225105,-66.931168,Zone Sud,false
-Stop_04,PARCELLE,84.1728525,4.581512,centre ville,true
-Stop_05,liberte 5,-87.2933955,-177.467423,Zone Nord,false
-Stop_08,grand dakar,25.9060075,116.089369,Zone Est,true
-Stop_011,PIKINE,5.3620435,18.902427,Zone Ouest,false
-Stop_03,MALIKA,10.449391,16.170120,Zone Est,false
-Stop_04,GUEDIAWAYE,-14.4805515,-49.838276,Zone Sud,false
-Stop_07,grand dakar,40.488343,97.899051,centre ville,false
-Stop_07,DIEUPPEUL,-56.959358,-125.914746,Zone Nord,true
-Stop_014,THIAROYE,-40.9997525,-88.683967,Zone Nord,true
-Stop_011,FANN,-59.4844325,-41.895158,Zone Est,true
-Stop_03,OUAKAM,-56.9524665,34.825516,Zone Nord,true
-Stop_03,GUEULE TAPEE,-62.455284,61.918177,centre ville,false
-Stop_02,DIAKHAYE,34.933119,-45.995463,Zone Est,true
-Stop_06,liberte 6,54.5891815,126.738381,Zone Ouest,false
-Stop_06,GUEDIAWAYE,-41.395539,153.502405,Zone Sud,false
-Stop_014,THIAROYE,88.139576,-106.488553,Zone Ouest,false
-Stop_08,yoff,73.840853,-71.881058,Zone Sud,false
-Stop_010,grand yoff,86.111046,-72.147918,Zone Ouest,false
-Stop_012,sicap,-12.6618025,48.026648,centre ville,true
-Stop_010,SACRE COEUR,50.734673,-48.543333,centre ville,true
-Stop_08,DIEUPPEUL,-41.353774,-43.089135,Zone Ouest,true
-Stop_011,PIKINE,-88.1133665,110.350311,Zone Est,true
-Stop_012,sicap,9.617378,-137.553842,Zone Ouest,false
-Stop_06,GUEDIAWAYE,-8.2645025,-164.694110,centre ville,true
-Stop_07,grand dakar,63.388248,25.515739,centre ville,false
-Stop_014,liberte 5,16.642285,-178.115822,Zone Ouest,true
-Stop_02,GUEULE TAPEE,77.474984,-149.929034,Zone Nord,false
-Stop_014,FANN,30.486403,57.787809,Zone Ouest,true
-Stop_01,GUEULE TAPEE,4.0132605,-92.816443,Zone Ouest,true
-Stop_010,grand yoff,20.700433,-122.047101,Zone Nord,false
-Stop_010,grand yoff,-67.5852375,-140.360528,Zone Est,false
-Stop_08,yoff,-39.5672535,119.386520,centre ville,true
-Stop_06,MALIKA,25.6838555,-150.139147,Zone Est,true
-Stop_010,SACRE COEUR,84.842307,113.949697,Zone Est,true
-Stop_014,liberte 5,38.521917,-119.527284,Zone Sud,false
-Stop_08,yoff,81.6531185,-166.629953,Zone Est,false
-Stop_012,OUAKAM,61.039706,61.713707,Zone Est,false
-Stop_03,GUEULE TAPEE,-12.9677355,-111.766670,Zone Nord,true
-Stop_07,grand dakar,86.004544,165.499569,Zone Sud,true
-Stop_01,PARCELLE,82.7100725,103.470016,Zone Sud,true
-Stop_05,yoff,9.6008135,-104.843892,Zone Nord,false
-Stop_06,sicap,89.2642835,147.288857,Zone Est,false
-Stop_02,FANN,53.393223,27.964945,Zone Nord,true
-Stop_03,OUAKAM,43.9724905,-2.330816,Zone Est,true
-Stop_014,liberte 5,-48.4663415,-110.769822,Zone Sud,true
-Stop_011,yoff,-10.3208985,6.373138,centre ville,false
-Stop_05,liberte 5,52.0387935,131.699257,Zone Nord,false
-Stop_08,grand dakar,39.9157655,-143.468378,Zone Est,true
-Stop_02,liberte 5,70.1242095,165.522718,Zone Nord,false
-Stop_012,PIKINE,40.3224085,-31.000326,Zone Nord,true
-Stop_05,liberte 5,-77.068631,57.505058,centre ville,true
-Stop_06,GUEDIAWAYE,-75.627269,-125.441758,centre ville,false
-Stop_012,PIKINE,39.826345,-88.006067,Zone Est,false
-Stop_02,FANN,27.844334,134.779983,Zone Ouest,true
-Stop_05,yoff,-7.4536665,171.313949,Zone Sud,true
-Stop_013,THIAROYE,-85.1289445,-51.475198,centre ville,true
-Stop_04,PARCELLE,-77.2157045,-83.328328,Zone Ouest,true
-Stop_09,MALIKA,-56.5356405,130.245277,Zone Sud,false
-Stop_03,liberte 6,35.003764,-159.682273,Zone Est,true
-Stop_08,grand dakar,6.516797,14.920473,Zone Nord,true
-Stop_03,liberte 6,-72.6842305,-74.302471,Zone Est,false
-Stop_012,PIKINE,38.844849,94.493209,centre ville,false
-Stop_014,THIAROYE,-51.9106715,8.640890,Zone Nord,false
+Stop_01,PARCELLE,14.759,-17.448,Zone Sud,true
+Stop_01,GUEULE TAPEE,14.6819,-17.4519,Zone Ouest,false
+Stop_013,sicap karack,14.6999,-17.4577,Zone Ouest,true
+Stop_012,PIKINE,14.7441,-17.4001,centre ville,true
+Stop_015,liberte 6,14.7055,-17.4592,Zone Ouest,true
+Stop_013,THIAROYE,14.7645,-17.354,Zone Ouest,false
+Stop_011,FANN,14.6883,-17.4677,Zone Est,true
+Stop_07,PARCELLE,14.759,-17.448,Zone Ouest,false
+Stop_013,THIAROYE,14.7645,-17.354,Zone Sud,true
+Stop_014,liberte 5,14.7035,-17.4619,Zone Ouest,true
+Stop_05,GUEDIAWAYE,14.7828,-17.4003,centre ville,false
+Stop_05,GUEDIAWAYE,14.7828,-17.4003,Zone Ouest,true
+Stop_01,SACRE COEUR,14.7083,-17.4644,centre ville,false
+Stop_05,yoff,14.7564,-17.4906,centre ville,false
+Stop_02,DIAKHAYE,14.8032,-17.319,Zone Nord,false
+Stop_06,GUEDIAWAYE,14.7828,-17.4003,Zone Nord,true
+Stop_011,FANN,14.6883,-17.4677,centre ville,false
+Stop_011,PIKINE,14.7441,-17.4001,Zone Est,false
+Stop_012,PIKINE,14.7441,-17.4001,Zone Ouest,false
+Stop_05,liberte 5,14.7035,-17.4619,centre ville,false
+Stop_04,grand yoff,14.7439,-17.4593,centre ville,true
+Stop_03,OUAKAM,14.7218,-17.4817,Zone Nord,true
+Stop_03,OUAKAM,14.7218,-17.4817,Zone Est,false
+Stop_012,sicap,14.7079,-17.4665,centre ville,true
+Stop_04,grand yoff,14.7439,-17.4593,Zone Est,false
+Stop_09,MALIKA,14.8022,-17.328,Zone Est,true
+Stop_07,DIEUPPEUL,88.4535815,178.957182,Zone Est,false
+Stop_014,THIAROYE,14.7645,-17.354,Zone Est,true
+Stop_04,grand yoff,14.7439,-17.4593,Zone Ouest,false
+Stop_04,grand yoff,14.7439,-17.4593,Zone Nord,true
+Stop_015,liberte 6,14.7055,-17.4592,centre ville,true
+Stop_08,grand dakar,14.7048,-17.455,Zone Nord,false
+Stop_01,sicap karack,14.6999,-17.4577,Zone Est,true
+Stop_015,THIAROYE,14.7645,-17.354,Zone Est,false
+Stop_03,GUEULE TAPEE,14.6819,-17.4519,Zone Sud,false
+Stop_012,PIKINE,14.7441,-17.4001,Zone Sud,true
+Stop_06,sicap,14.7079,-17.4665,Zone Nord,true
+Stop_015,THIAROYE,14.7645,-17.354,centre ville,true
+Stop_06,liberte 6,14.7055,-17.4592,Zone Nord,false
+Stop_07,grand dakar,14.7048,-17.455,Zone Sud,true
+Stop_015,OUAKAM,14.7218,-17.4817,Zone Sud,true
+Stop_02,FANN,14.6883,-17.4677,Zone Sud,false
+Stop_010,PIKINE,14.7441,-17.4001,centre ville,true
+Stop_06,liberte 6,14.7055,-17.4592,centre ville,false
+Stop_01,PARCELLE,14.759,-17.448,centre ville,false
+Stop_015,liberte 6,14.7055,-17.4592,Zone Est,false
+Stop_08,yoff,14.7564,-17.4906,Zone Sud,true
+Stop_08,grand dakar,14.7048,-17.455,Zone Est,true
+Stop_05,GUEDIAWAYE,14.7828,-17.4003,Zone Sud,false
+Stop_09,grand dakar,14.7048,-17.455,Zone Nord,false
+Stop_012,OUAKAM,14.7218,-17.4817,Zone Sud,false
+Stop_013,SACRE COEUR,14.7083,-17.4644,Zone Nord,true
+Stop_09,MALIKA,14.8022,-17.328,Zone Sud,true
+Stop_015,OUAKAM,14.7218,-17.4817,Zone Nord,false
+Stop_04,grand yoff,14.7439,-17.4593,Zone Nord,false
+Stop_012,sicap,14.7079,-17.4665,Zone Nord,true
+Stop_015,liberte 6,14.7055,-17.4592,Zone Est,false
+Stop_02,GUEULE TAPEE,14.6819,-17.4519,Zone Ouest,false
+Stop_08,DIEUPPEUL,-11.221900,-91.825708,Zone Sud,false
+Stop_015,liberte 6,14.7055,-17.4592,Zone Sud,true
+Stop_09,grand dakar,14.7048,-17.455,Zone Sud,true
+Stop_013,THIAROYE,14.7645,-17.354,Zone Nord,true
+Stop_03,OUAKAM,14.7218,-17.4817,Zone Sud,false
+Stop_07,PARCELLE,14.759,-17.448,centre ville,true
+Stop_09,grand dakar,14.7048,-17.455,Zone Sud,false
+Stop_010,PIKINE,14.7441,-17.4001,Zone Sud,false
+Stop_010,grand yoff,14.7439,-17.4593,Zone Sud,true
+Stop_07,DIEUPPEUL,25.4666495,-114.736761,Zone Est,false
+Stop_09,sicap,14.7079,-17.4665,centre ville,false
+Stop_011,FANN,14.6883,-17.4677,centre ville,false
+Stop_01,PARCELLE,14.759,-17.448,Zone Nord,false
+Stop_010,PIKINE,14.7441,-17.4001,Zone Est,false
+Stop_04,sicap karack,14.6999,-17.4577,Zone Ouest,false
+Stop_012,PIKINE,14.7441,-17.4001,Zone Ouest,true
+Stop_02,FANN,14.6883,-17.4677,Zone Est,false
+Stop_015,THIAROYE,14.7645,-17.354,centre ville,true
+Stop_09,MALIKA,14.8022,-17.328,Zone Ouest,true
+Stop_010,PIKINE,14.7441,-17.4001,Zone Est,false
+Stop_014,liberte 5,14.7035,-17.4619,Zone Sud,true
+Stop_05,yoff,14.7564,-17.4906,Zone Sud,true
+Stop_010,grand yoff,14.7439,-17.4593,Zone Sud,false
+Stop_03,liberte 6,14.7055,-17.4592,centre ville,false
+Stop_015,THIAROYE,14.7645,-17.354,Zone Sud,false
+Stop_01,PARCELLE,14.759,-17.448,Zone Nord,true
+Stop_06,GUEDIAWAYE,14.7828,-17.4003,centre ville,false
+Stop_011,PIKINE,14.7441,-17.4001,Zone Est,true
+Stop_07,PARCELLE,14.759,-17.448,Zone Est,false
+Stop_03,MALIKA,14.8022,-17.328,centre ville,true
+Stop_03,OUAKAM,14.7218,-17.4817,Zone Sud,true
+Stop_015,OUAKAM,14.7218,-17.4817,centre ville,false
+Stop_07,grand dakar,14.7048,-17.455,Zone Sud,true
+Stop_014,THIAROYE,14.7645,-17.354,centre ville,false
+Stop_09,MALIKA,14.8022,-17.328,Zone Est,false
+Stop_09,DIEUPPEUL,-49.2939595,-26.152360,Zone Ouest,false
+Stop_07,PARCELLE,14.759,-17.448,Zone Sud,false
+Stop_03,OUAKAM,14.7218,-17.4817,Zone Nord,true
+Stop_07,grand yoff,14.7439,-17.4593,Zone Nord,false
+Stop_03,MALIKA,14.8022,-17.328,Zone Est,true
+Stop_09,sicap,14.7079,-17.4665,Zone Est,false
+Stop_015,THIAROYE,14.7645,-17.354,Zone Ouest,false
