@@ -1,0 +1,97 @@
+saison,equipe,pays,competition,classement,matchs_joues,victoires,nuls,defaites,buts_pour,buts_contre,difference_buts,points,meilleur_buteur,gardien_de_but
+2024-2025,BARCELONE,ESPAGNE,La liga,1.0,38.0,28.0,4.0,6.0,102.0,39.0,63.0,88.0,Robert Lewandowski - 27,Iñaki Peña
+2023-2024,BARCELONE,ESPAGNE,La liga,2.0,38.0,26.0,7.0,5.0,79.0,44.0,35.0,85.0,Robert Lewandowski - 19,Marc-André ter Stegen
+2022-2023,BARCELONE,ESPAGNE,La liga,1.0,38.0,28.0,4.0,6.0,70.0,20.0,50.0,88.0,Robert Lewandowski - 23,Marc-André ter Stegen
+2021-2022,BARCELONE,ESPAGNE,La liga,2.0,38.0,21.0,10.0,7.0,68.0,38.0,30.0,73.0,Memphis - 12,Marc-André ter Stegen
+2020-2021,BARCELONE,ESPAGNE,La liga,3.0,38.0,24.0,7.0,7.0,85.0,38.0,47.0,79.0,Lionel Messi - 30,Marc-André ter Stegen
+2019-2020,BARCELONE,ESPAGNE,La liga,2.0,38.0,25.0,7.0,6.0,86.0,38.0,48.0,82.0,Lionel Messi - 25,Marc-André ter Stegen
+2018-2019,BARCELONE,ESPAGNE,La liga,1.0,38.0,26.0,9.0,3.0,90.0,36.0,54.0,87.0,Lionel Messi - 36,Marc-André ter Stegen
+2017-2018,BARCELONE,ESPAGNE,La liga,1.0,38.0,28.0,9.0,1.0,99.0,29.0,70.0,93.0,Lionel Messi - 34,Marc-André ter Stegen
+2016-2017,BARCELONE,ESPAGNE,La liga,2.0,38.0,28.0,6.0,4.0,116.0,37.0,79.0,90.0,Lionel Messi - 37,Marc-André ter Stegen
+2015-2016,BARCELONE,ESPAGNE,La liga,1.0,38.0,29.0,4.0,5.0,112.0,29.0,83.0,91.0,Luis Suárez - 40,Claudio Bravo
+2014-2015,BARCELONE,ESPAGNE,La liga,1.0,38.0,30.0,4.0,4.0,110.0,21.0,89.0,94.0,Lionel Messi - 43,Claudio Bravo
+2013-2014,BARCELONE,ESPAGNE,La liga,2.0,38.0,27.0,6.0,5.0,100.0,33.0,67.0,87.0,Lionel Messi - 28,Víctor Valdés
+2012-2013,BARCELONE,ESPAGNE,La liga,1.0,38.0,32.0,4.0,2.0,115.0,40.0,75.0,100.0,Lionel Messi - 46,Víctor Valdés
+2011-2012,BARCELONE,ESPAGNE,La liga,2.0,38.0,28.0,7.0,3.0,114.0,29.0,85.0,91.0,Lionel Messi - 50,Víctor Valdés
+2010-2011,BARCELONE,ESPAGNE,La liga,1.0,38.0,30.0,6.0,2.0,95.0,21.0,74.0,96.0,Lionel Messi - 31,Víctor Valdés
+2009-2010,BARCELONE,ESPAGNE,La liga,1.0,38.0,31.0,6.0,1.0,98.0,24.0,74.0,99.0,Lionel Messi - 34,Víctor Valdés
+2008-2009,BARCELONE,ESPAGNE,La liga,1.0,38.0,27.0,6.0,5.0,105.0,35.0,70.0,87.0,Samuel Eto'o - 30,Víctor Valdés
+2007-2008,BARCELONE,ESPAGNE,La liga,3.0,38.0,19.0,10.0,9.0,76.0,43.0,33.0,67.0,Samuel Eto'o - 16,Víctor Valdés
+2006-2007,BARCELONE,ESPAGNE,La liga,2.0,38.0,22.0,10.0,6.0,78.0,33.0,45.0,76.0,Ronaldinho - 21,Víctor Valdés
+2005-2006,BARCELONE,ESPAGNE,La liga,1.0,38.0,25.0,7.0,6.0,80.0,35.0,45.0,82.0,Samuel Eto'o - 26,Víctor Valdés
+2004-2005,BARCELONE,ESPAGNE,La liga,1.0,38.0,25.0,9.0,4.0,73.0,29.0,44.0,84.0,Samuel Eto'o - 24,Víctor Valdés
+2003-2004,BARCELONE,ESPAGNE,La liga,2.0,38.0,21.0,9.0,8.0,63.0,39.0,24.0,72.0,Ronaldinho - 15,Víctor Valdés
+2002-2003,BARCELONE,ESPAGNE,La liga,6.0,38.0,15.0,11.0,12.0,63.0,47.0,16.0,56.0,Patrick Kluivert - 16,Roberto Bonano
+2001-2002,BARCELONE,ESPAGNE,La liga,4.0,38.0,18.0,10.0,10.0,65.0,37.0,28.0,64.0,Patrick Kluivert - 18,Roberto Bonano
+2000-2001,BARCELONE,ESPAGNE,La liga,4.0,38.0,17.0,12.0,9.0,80.0,57.0,23.0,63.0,Rivaldo - 23,Pepe Reina
+1999-2000,BARCELONE,ESPAGNE,La liga,2.0,38.0,19.0,7.0,12.0,70.0,46.0,24.0,64.0,Patrick Kluivert - 16,Ruud Hesp
+1998-1999,BARCELONE,ESPAGNE,La liga,1.0,38.0,24.0,7.0,7.0,87.0,43.0,44.0,79.0,Rivaldo - 24,Ruud Hesp
+1997-1998,BARCELONE,ESPAGNE,La liga,1.0,38.0,23.0,5.0,10.0,78.0,56.0,22.0,74.0,Rivaldo - 19,Ruud Hesp
+1996-1997,BARCELONE,ESPAGNE,La liga,2.0,42.0,28.0,6.0,8.0,102.0,48.0,54.0,90.0,Ronaldo - 34,Vítor Baía
+1995-1996,BARCELONE,ESPAGNE,La liga,3.0,42.0,22.0,14.0,6.0,72.0,39.0,33.0,80.0,Òscar - 10,Carles Busquets
+1994-1995,BARCELONE,ESPAGNE,La liga,4.0,38.0,18.0,10.0,10.0,60.0,45.0,15.0,46.0,"Hristo Stoichkov, Jordi Cruyff... - 9",Julen Lopetegui
+1993-1994,BARCELONE,ESPAGNE,La liga,1.0,38.0,25.0,6.0,7.0,91.0,42.0,49.0,56.0,Romário - 30,Andoni Zubizarreta
+1992-1993,BARCELONE,ESPAGNE,La liga,1.0,38.0,25.0,8.0,5.0,87.0,34.0,53.0,58.0,Hristo Stoichkov - 20,Andoni Zubizarreta
+1991-1992,BARCELONE,ESPAGNE,La liga,1.0,38.0,23.0,9.0,6.0,87.0,37.0,50.0,55.0,Hristo Stoichkov - 17,Andoni Zubizarreta
+1990-1991,BARCELONE,ESPAGNE,La liga,1.0,38.0,25.0,7.0,6.0,74.0,33.0,41.0,57.0,Hristo Stoichkov - 14,Andoni Zubizarreta
+1989-1990,BARCELONE,ESPAGNE,La liga,3.0,38.0,23.0,5.0,10.0,83.0,39.0,44.0,51.0,Julio Salinas - 15,Andoni Zubizarreta
+1988-1989,BARCELONE,ESPAGNE,La liga,2.0,38.0,23.0,11.0,4.0,80.0,26.0,54.0,57.0,Julio Salinas - 20,Andoni Zubizarreta
+2023-2024,BARCELONE,ESPAGNE,Champions League,4.0,10.0,6.0,1.0,3.0,20.0,14.0,6.0,19.0,"Raphinha, Robert Lewandowski... - 3",Marc-André ter Stegen
+2022-2023,BARCELONE,ESPAGNE,Europa League,7.0,2.0,0.0,1.0,1.0,3.0,4.0,-1.0,1.0,"Marcos Alonso, Robert Lewandowski... - 1",Marc-André ter Stegen
+2022-2023,BARCELONE,ESPAGNE,Champions League,6.0,6.0,2.0,1.0,3.0,12.0,12.0,0.0,7.0,Robert Lewandowski - 5,Marc-André ter Stegen
+2021-2022,BARCELONE,ESPAGNE,Europa League,4.0,6.0,2.0,3.0,1.0,10.0,8.0,2.0,9.0,"Ferrán Torres, Pierre-Emerick Aubameyang - 2",Marc-André ter Stegen
+2021-2022,BARCELONE,ESPAGNE,Champions League,6.0,6.0,2.0,1.0,3.0,2.0,9.0,-7.0,7.0,"Gerard Piqué, Ansu Fati - 1",Marc-André ter Stegen
+2020-2021,BARCELONE,ESPAGNE,Champions League,5.0,8.0,5.0,1.0,2.0,18.0,10.0,8.0,16.0,Lionel Messi - 5,Marc-André ter Stegen
+2019-2020,BARCELONE,ESPAGNE,Champions League,4.0,9.0,5.0,3.0,1.0,15.0,14.0,1.0,18.0,Luis Suárez - 5,Marc-André ter Stegen
+2018-2019,BARCELONE,ESPAGNE,Champions League,3.0,12.0,8.0,3.0,1.0,26.0,10.0,16.0,27.0,Lionel Messi - 12,Marc-André ter Stegen
+2017-2018,BARCELONE,ESPAGNE,Champions League,4.0,10.0,6.0,3.0,1.0,17.0,6.0,11.0,21.0,Lionel Messi - 6,Marc-André ter Stegen
+2016-2017,BARCELONE,ESPAGNE,Champions League,4.0,10.0,6.0,1.0,3.0,26.0,12.0,14.0,19.0,Lionel Messi - 11,Marc-André ter Stegen
+2015-2016,BARCELONE,ESPAGNE,Champions League,4.0,10.0,7.0,2.0,1.0,22.0,8.0,14.0,23.0,Luis Suárez - 8,Marc-André ter Stegen
+2014-2015,BARCELONE,ESPAGNE,Champions League,1.0,13.0,11.0,0.0,2.0,31.0,11.0,20.0,33.0,"Lionel Messi, Neymar - 10",Marc-André ter Stegen
+2013-2014,BARCELONE,ESPAGNE,Champions League,4.0,10.0,5.0,3.0,2.0,21.0,8.0,13.0,18.0,Lionel Messi - 8,Marc-André ter Stegen
+2012-2013,BARCELONE,ESPAGNE,Champions League,3.0,12.0,4.0,5.0,3.0,18.0,17.0,1.0,17.0,Lionel Messi - 8,Víctor Valdés
+2011-2012,BARCELONE,ESPAGNE,Champions League,3.0,12.0,6.0,5.0,1.0,35.0,10.0,25.0,23.0,Lionel Messi - 14,Víctor Valdés
+2010-2011,BARCELONE,ESPAGNE,Champions League,1.0,13.0,8.0,4.0,1.0,30.0,9.0,21.0,28.0,Lionel Messi - 12,Víctor Valdés
+2009-2010,BARCELONE,ESPAGNE,Champions League,3.0,12.0,3.0,7.0,2.0,20.0,10.0,10.0,16.0,Lionel Messi - 8,Víctor Valdés
+2008-2009,BARCELONE,ESPAGNE,Champions League,1.0,15.0,8.0,6.0,2.0,36.0,14.0,22.0,30.0,Lionel Messi - 9,Víctor Valdés
+2007-2008,BARCELONE,ESPAGNE,Champions League,3.0,12.0,8.0,3.0,1.0,18.0,6.0,12.0,27.0,Lionel Messi - 6,Víctor Valdés
+2006-2007,BARCELONE,ESPAGNE,Champions League,5.0,8.0,4.0,2.0,2.0,14.0,6.0,8.0,14.0,Eiður Guðjohnsen - 3,Víctor Valdés
+2005-2006,BARCELONE,ESPAGNE,Champions League,1.0,13.0,9.0,5.0,0.0,24.0,5.0,19.0,32.0,Ronaldinho - 7,Víctor Valdés
+2004-2005,BARCELONE,ESPAGNE,Champions League,5.0,8.0,4.0,1.0,3.0,13.0,11.0,2.0,13.0,"Samuel Eto'o, Ronaldinho - 4",Víctor Valdés
+2003-2004,BARCELONE,ESPAGNE,Europa League,3.0,8.0,5.0,2.0,1.0,17.0,3.0,14.0,17.0,Ronaldinho - 4,Víctor Valdés
+2002-2003,BARCELONE,ESPAGNE,Champions League,4.0,16.0,13.0,2.0,1.0,31.0,9.0,22.0,41.0,Javier Saviola - 7,Víctor Valdés
+2001-2002,BARCELONE,ESPAGNE,Champions League,3.0,18.0,10.0,4.0,4.0,28.0,20.0,8.0,34.0,Patrick Kluivert - 6,Roberto Bonano
+2000-2001,BARCELONE,ESPAGNE,Champions League,3.0,8.0,4.0,2.0,2.0,13.0,6.0,7.0,14.0,Rivaldo - 5,Roberto Bonano
+2000-2001,BARCELONE,ESPAGNE,Europa League,6.0,6.0,2.0,2.0,2.0,13.0,9.0,4.0,8.0,Rivaldo - 6,Richard Dutruel
+1999-2000,BARCELONE,ESPAGNE,Champions League,3.0,16.0,11.0,3.0,2.0,45.0,23.0,22.0,36.0,Rivaldo - 10,Richard Dutruel
+1998-1999,BARCELONE,ESPAGNE,Champions League,6.0,6.0,2.0,2.0,2.0,11.0,9.0,2.0,8.0,Sonny Anderson - 4,Ruud Hesp
+1997-1998,BARCELONE,ESPAGNE,Champions League,6.0,8.0,3.0,2.0,3.0,11.0,16.0,-5.0,11.0,Luis Enrique - 3,Ruud Hesp
+1995-1996,BARCELONE,ESPAGNE,Europa League,3.0,10.0,6.0,3.0,1.0,31.0,10.0,21.0,21.0,Roger - 4,Vítor Baía
+1994-1995,BARCELONE,ESPAGNE,Champions League,4.0,8.0,2.0,3.0,3.0,13.0,11.0,2.0,7.0,"Hristo Stoichkov, José Mari Bakero... - 3",Carles Busquets
+1993-1994,BARCELONE,ESPAGNE,Champions League,2.0,12.0,8.0,2.0,2.0,26.0,12.0,14.0,18.0,Ronald Koeman - 8,Andoni Zubizarreta
+1992-1993,BARCELONE,ESPAGNE,Champions League,5.0,4.0,1.0,2.0,1.0,4.0,4.0,0.0,4.0,Txiki Begiristain - 2,Andoni Zubizarreta
+1991-1992,BARCELONE,ESPAGNE,Champions League,1.0,11.0,7.0,1.0,3.0,17.0,8.0,9.0,15.0,Hristo Stoichkov - 4,Andoni Zubizarreta
+2024-2025,BARCELONE,ESPAGNE,Coupe du Roi,1.0,6.0,5.0,1.0,0.0,22.0,7.0,15.0,16.0,Ferrán Torres - 6,Wojciech Szczęsny
+2023-2024,BARCELONE,ESPAGNE,Coupe du Roi,4.0,3.0,2.0,0.0,1.0,8.0,7.0,1.0,6.0,Robert Lewandowski - 2,Wojciech Szczęsny
+2022-2023,BARCELONE,ESPAGNE,Coupe du Roi,3.0,5.0,4.0,0.0,1.0,11.0,7.0,4.0,12.0,"Robert Lewandowski, Ousmane Dembélé... - 2",Iñaki Peña
+2021-2022,BARCELONE,ESPAGNE,Coupe du Roi,5.0,2.0,1.0,0.0,1.0,4.0,4.0,0.0,3.0,"Ferran Jutglà, Ousmane Dembélé... - 1",Marc-André ter Stegen
+2020-2021,BARCELONE,ESPAGNE,Coupe du Roi,1.0,6.0,5.0,0.0,1.0,16.0,6.0,10.0,15.0,"Lionel Messi, Antoine Griezmann... - 3",Marc-André ter Stegen
+2019-2020,BARCELONE,ESPAGNE,Coupe du Roi,5.0,3.0,2.0,0.0,1.0,7.0,2.0,5.0,6.0,Antoine Griezmann - 3,Marc-André ter Stegen
+2018-2019,BARCELONE,ESPAGNE,Coupe du Roi,2.0,9.0,5.0,1.0,3.0,20.0,9.0,11.0,16.0,"Philippe Coutinho, Luis Suárez... - 3",Marc-André ter Stegen
+2017-2018,BARCELONE,ESPAGNE,Coupe du Roi,1.0,9.0,7.0,1.0,1.0,24.0,2.0,22.0,22.0,Luis Suárez - 5,Jasper Cillessen
+2016-2017,BARCELONE,ESPAGNE,Coupe du Roi,1.0,9.0,6.0,2.0,1.0,24.0,9.0,15.0,20.0,Lionel Messi - 5,Jasper Cillessen
+2015-2016,BARCELONE,ESPAGNE,Coupe du Roi,1.0,9.0,7.0,2.0,0.0,27.0,5.0,22.0,23.0,"Luis Suárez, Lionel Messi... - 5",Jasper Cillessen
+2014-2015,BARCELONE,ESPAGNE,Coupe du Roi,1.0,9.0,9.0,0.0,0.0,34.0,6.0,28.0,27.0,Neymar - 7,Marc-André ter Stegen
+2015-2016,BARCELONE,ESPAGNE,Super Coupe d'Espagne,1.0,1.0,1.0,1.0,0.0,5.0,4.0,1.0,4.0,Lionel Messi - 2,Marc-André ter Stegen
+2011-2012,BARCELONE,ESPAGNE,Super Coupe d'Espagne,1.0,1.0,1.0,0.0,0.0,2.0,0.0,2.0,3.0,Lionel Messi - 2,Marc-André ter Stegen
+2009-2010,BARCELONE,ESPAGNE,Super Coupe d'Espagne,1.0,1.0,1.0,0.0,0.0,1.0,0.0,1.0,3.0,Lionel Messi - 2,Víctor Valdés
+2006-2007,BARCELONE,ESPAGNE,Super Coupe d'Espagne,2.0,1.0,0.0,0.0,1.0,0.0,3.0,-3.0,0.0,Lionel Messi - 2,Víctor Valdés
+2024-2025,BARCELONE,ESPAGNE,Super Coupe d'Espagne,1.0,2.0,2.0,0.0,0.0,7.0,2.0,5.0,6.0,"Raphinha, Lamine Yamal - 2",Wojciech Szczęsny
+2023-2024,BARCELONE,ESPAGNE,Super Coupe d'Espagne,2.0,2.0,1.0,0.0,1.0,3.0,4.0,-1.0,3.0,Robert Lewandowski - 2,Wojciech Szczęsny
+2022-2023,BARCELONE,ESPAGNE,Super Coupe d'Espagne,2.0,1.0,0.0,1.0,0.0,2.0,2.0,0.0,1.0,Robert Lewandowski - 2,Iñaki Peña
+2021-2022,BARCELONE,ESPAGNE,Super Coupe d'Espagne,2.0,1.0,0.0,0.0,1.0,2.0,3.0,-1.0,0.0,"Luuk de Jong, Ansu Fati - 1",Marc-André ter Stegen
+2020-2021,BARCELONE,ESPAGNE,Super Coupe d'Espagne,2.0,2.0,0.0,1.0,1.0,3.0,4.0,-1.0,1.0,Antoine Griezmann - 2,Marc-André ter Stegen
+2019-2020,BARCELONE,ESPAGNE,Super Coupe d'Espagne,3.0,1.0,0.0,0.0,1.0,2.0,3.0,-1.0,0.0,"Lionel Messi, Antoine Griezmann - 1",Marc-André ter Stegen
+2018-2019,BARCELONE,ESPAGNE,Super Coupe d'Espagne,1.0,1.0,1.0,0.0,0.0,2.0,1.0,1.0,3.0,"Gerard Piqué, Ousmane Dembélé - 1",Neto
+2017-2018,BARCELONE,ESPAGNE,Super Coupe d'Espagne,2.0,2.0,0.0,0.0,2.0,1.0,5.0,-4.0,0.0,Lionel Messi - 1,Marc-André ter Stegen
+2016-2017,BARCELONE,ESPAGNE,Super Coupe d'Espagne,1.0,2.0,2.0,0.0,0.0,5.0,0.0,5.0,6.0,Arda Turan - 2,Marc-André ter Stegen

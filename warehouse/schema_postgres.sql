@@ -16,9 +16,7 @@ CREATE TABLE IF NOT EXISTS saisons (
     buts_contre SMALLINT,
     difference_buts SMALLINT,
     points SMALLINT,
-    presence_moyenne BIGINT,
     meilleur_buteur VARCHAR(150),
-    gardien_de_but VARCHAR(150),
-    remarques TEXT
+    gardien_de_but VARCHAR(150)
 );
 
