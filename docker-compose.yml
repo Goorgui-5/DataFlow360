@@ -14,7 +14,6 @@ services:
     volumes:
       - postgres_data:/var/lib/postgresql/data
 
-
   pgadmin:
     image: dpage/pgadmin4
     container_name: pgadmin_dataflow360
@@ -28,15 +27,21 @@ services:
   zookeeper:
     image: confluentinc/cp-zookeeper:7.5.0
     container_name: zookeeper
+    restart: always  # ✅ Ajouté
     environment:
       ZOOKEEPER_CLIENT_PORT: 2181
       ZOOKEEPER_TICK_TIME: 2000
+      ZOOKEEPER_SERVER_ID: 1  # ✅ Ajouté
     ports:
       - "2181:2181"
+    volumes:  # ✅ Ajouté pour persistence
+      - zookeeper_data:/var/lib/zookeeper/data
+      - zookeeper_logs:/var/lib/zookeeper/log
 
   kafka:
     image: confluentinc/cp-kafka:7.5.0
     container_name: kafka
+    restart: always  # ✅ Ajouté
     depends_on:
       - zookeeper
     ports:
@@ -46,8 +51,12 @@ services:
       KAFKA_ZOOKEEPER_CONNECT: zookeeper:2181
       KAFKA_ADVERTISED_LISTENERS: PLAINTEXT://localhost:9092
       KAFKA_OFFSETS_TOPIC_REPLICATION_FACTOR: 1
-
+      KAFKA_AUTO_CREATE_TOPICS_ENABLE: 'true'  # ✅ Ajouté
+    volumes:  # ✅ Ajouté pour persistence
+      - kafka_data:/var/lib/kafka/data
 
 volumes:
   postgres_data:
-
+  zookeeper_data:  # ✅ Ajouté
+  zookeeper_logs:  # ✅ Ajouté
+  kafka_data:      # ✅ Ajouté
