@@ -27,21 +27,21 @@ services:
   zookeeper:
     image: confluentinc/cp-zookeeper:7.5.0
     container_name: zookeeper
-    restart: always  # ✅ Ajouté
+    restart: always
     environment:
       ZOOKEEPER_CLIENT_PORT: 2181
       ZOOKEEPER_TICK_TIME: 2000
-      ZOOKEEPER_SERVER_ID: 1  # ✅ Ajouté
+      ZOOKEEPER_SERVER_ID: 1
     ports:
       - "2181:2181"
-    volumes:  # ✅ Ajouté pour persistence
+    volumes:
       - zookeeper_data:/var/lib/zookeeper/data
       - zookeeper_logs:/var/lib/zookeeper/log
 
   kafka:
     image: confluentinc/cp-kafka:7.5.0
     container_name: kafka
-    restart: always  # ✅ Ajouté
+    restart: always
     depends_on:
       - zookeeper
     ports:
@@ -51,12 +51,78 @@ services:
       KAFKA_ZOOKEEPER_CONNECT: zookeeper:2181
       KAFKA_ADVERTISED_LISTENERS: PLAINTEXT://localhost:9092
       KAFKA_OFFSETS_TOPIC_REPLICATION_FACTOR: 1
-      KAFKA_AUTO_CREATE_TOPICS_ENABLE: 'true'  # ✅ Ajouté
-    volumes:  # ✅ Ajouté pour persistence
+      KAFKA_AUTO_CREATE_TOPICS_ENABLE: 'true'
+    volumes:
       - kafka_data:/var/lib/kafka/data
 
+  redis:
+    image: redis:latest
+    container_name: redis_dataflow360
+    ports:
+      - "6379:6379"
+    restart: always
+
+  mongo:
+      image: mongo:6
+      container_name: mongo_dataflow360
+      restart: always
+      ports:
+        - "27017:27017"
+      environment:
+        MONGO_INITDB_ROOT_USERNAME: root
+        MONGO_INITDB_ROOT_PASSWORD: example
+      volumes:
+        - mongo_data:/data/db
+
+  mongo-express:
+    image: mongo-express
+    container_name: mongo_express_dataflow360
+    restart: always
+    ports:
+      - "8081:8081"
+    environment:
+      ME_CONFIG_MONGODB_SERVER: mongo
+      ME_CONFIG_MONGODB_ADMINUSERNAME: root
+      ME_CONFIG_MONGODB_ADMINPASSWORD: example
+      ME_CONFIG_BASICAUTH_USERNAME: admin
+      ME_CONFIG_BASICAUTH_PASSWORD: pass
+    depends_on:
+      - mongo
+
+  spark:
+    image: bitnami/spark:latest
+    container_name: spark_dataflow360
+    environment:
+      - SPARK_MODE=master
+      - SPARK_MASTER_HOST=spark
+      - SPARK_RPC_AUTHENTICATION_ENABLED=no
+      - SPARK_RPC_ENCRYPTION_ENABLED=no
+      - SPARK_LOCAL_STORAGE_ENCRYPTION_ENABLED=no
+      - SPARK_SSL_ENABLED=no
+    ports:
+      - "7077:7077"
+      - "8080:8080"
+    networks:
+      - dataflow360
+
+  spark-worker:
+    image: bitnami/spark:latest
+    container_name: spark_worker_dataflow360
+    environment:
+      - SPARK_MODE=worker
+      - SPARK_MASTER_URL=spark://spark:7077
+      - SPARK_WORKER_MEMORY=1G
+      - SPARK_WORKER_CORES=1
+    depends_on:
+      - spark
+    networks:
+      - dataflow360
+
+
+  streaming_api_producer:
 volumes:
   postgres_data:
-  zookeeper_data:  # ✅ Ajouté
-  zookeeper_logs:  # ✅ Ajouté
-  kafka_data:      # ✅ Ajouté
+  zookeeper_data:
+  zookeeper_logs:
+  kafka_data:
+  mongo_data:
