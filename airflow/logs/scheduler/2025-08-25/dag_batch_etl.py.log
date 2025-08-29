@@ -1,0 +1,337 @@
+[2025-08-25T12:35:29.740+0000] {processor.py:186} INFO - Started process (PID=71) to work on /opt/airflow/dags/dag_batch_etl.py
+[2025-08-25T12:35:29.742+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_batch_etl.py for tasks to queue
+[2025-08-25T12:35:29.746+0000] {logging_mixin.py:190} INFO - [2025-08-25T12:35:29.745+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/dag_batch_etl.py
+[2025-08-25T12:35:29.805+0000] {processor.py:925} INFO - DAG(s) 'batch_inplay_aggregation' retrieved from /opt/airflow/dags/dag_batch_etl.py
+[2025-08-25T12:35:30.178+0000] {logging_mixin.py:190} INFO - [2025-08-25T12:35:30.177+0000] {override.py:1900} INFO - Created Permission View: can read on DAG:batch_inplay_aggregation
+[2025-08-25T12:35:30.201+0000] {logging_mixin.py:190} INFO - [2025-08-25T12:35:30.200+0000] {override.py:1900} INFO - Created Permission View: can delete on DAG:batch_inplay_aggregation
+[2025-08-25T12:35:30.221+0000] {logging_mixin.py:190} INFO - [2025-08-25T12:35:30.220+0000] {override.py:1900} INFO - Created Permission View: can edit on DAG:batch_inplay_aggregation
+[2025-08-25T12:35:30.240+0000] {logging_mixin.py:190} INFO - [2025-08-25T12:35:30.239+0000] {override.py:1900} INFO - Created Permission View: can read on DAG Run:batch_inplay_aggregation
+[2025-08-25T12:35:30.256+0000] {logging_mixin.py:190} INFO - [2025-08-25T12:35:30.255+0000] {override.py:1900} INFO - Created Permission View: menu access on DAG Run:batch_inplay_aggregation
+[2025-08-25T12:35:30.271+0000] {logging_mixin.py:190} INFO - [2025-08-25T12:35:30.270+0000] {override.py:1900} INFO - Created Permission View: can delete on DAG Run:batch_inplay_aggregation
+[2025-08-25T12:35:30.287+0000] {logging_mixin.py:190} INFO - [2025-08-25T12:35:30.287+0000] {override.py:1900} INFO - Created Permission View: can create on DAG Run:batch_inplay_aggregation
+[2025-08-25T12:35:30.289+0000] {logging_mixin.py:190} INFO - [2025-08-25T12:35:30.288+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-08-25T12:35:30.322+0000] {logging_mixin.py:190} INFO - [2025-08-25T12:35:30.321+0000] {dag.py:3262} INFO - Creating ORM DAG for batch_inplay_aggregation
+[2025-08-25T12:35:30.345+0000] {logging_mixin.py:190} INFO - [2025-08-25T12:35:30.344+0000] {dag.py:4180} INFO - Setting next_dagrun for batch_inplay_aggregation to 2025-08-25 12:30:00+00:00, run_after=2025-08-25 12:35:00+00:00
+[2025-08-25T12:35:30.391+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_batch_etl.py took 0.663 seconds
+[2025-08-25T12:36:00.458+0000] {processor.py:186} INFO - Started process (PID=135) to work on /opt/airflow/dags/dag_batch_etl.py
+[2025-08-25T12:36:00.461+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_batch_etl.py for tasks to queue
+[2025-08-25T12:36:00.465+0000] {logging_mixin.py:190} INFO - [2025-08-25T12:36:00.464+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/dag_batch_etl.py
+[2025-08-25T12:36:00.479+0000] {processor.py:925} INFO - DAG(s) 'batch_inplay_aggregation' retrieved from /opt/airflow/dags/dag_batch_etl.py
+[2025-08-25T12:36:00.510+0000] {logging_mixin.py:190} INFO - [2025-08-25T12:36:00.510+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-08-25T12:36:00.553+0000] {logging_mixin.py:190} INFO - [2025-08-25T12:36:00.553+0000] {dag.py:4180} INFO - Setting next_dagrun for batch_inplay_aggregation to 2025-08-25 12:30:00+00:00, run_after=2025-08-25 12:35:00+00:00
+[2025-08-25T12:36:00.585+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_batch_etl.py took 0.135 seconds
+[2025-08-25T12:36:31.176+0000] {processor.py:186} INFO - Started process (PID=199) to work on /opt/airflow/dags/dag_batch_etl.py
+[2025-08-25T12:36:31.179+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_batch_etl.py for tasks to queue
+[2025-08-25T12:36:31.182+0000] {logging_mixin.py:190} INFO - [2025-08-25T12:36:31.182+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/dag_batch_etl.py
+[2025-08-25T12:36:31.196+0000] {processor.py:925} INFO - DAG(s) 'batch_inplay_aggregation' retrieved from /opt/airflow/dags/dag_batch_etl.py
+[2025-08-25T12:36:31.226+0000] {logging_mixin.py:190} INFO - [2025-08-25T12:36:31.226+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-08-25T12:36:31.265+0000] {logging_mixin.py:190} INFO - [2025-08-25T12:36:31.265+0000] {dag.py:4180} INFO - Setting next_dagrun for batch_inplay_aggregation to 2025-08-25 12:30:00+00:00, run_after=2025-08-25 12:35:00+00:00
+[2025-08-25T12:36:31.293+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_batch_etl.py took 0.125 seconds
+[2025-08-25T12:37:02.048+0000] {processor.py:186} INFO - Started process (PID=263) to work on /opt/airflow/dags/dag_batch_etl.py
+[2025-08-25T12:37:02.051+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_batch_etl.py for tasks to queue
+[2025-08-25T12:37:02.054+0000] {logging_mixin.py:190} INFO - [2025-08-25T12:37:02.054+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/dag_batch_etl.py
+[2025-08-25T12:37:02.067+0000] {processor.py:925} INFO - DAG(s) 'batch_inplay_aggregation' retrieved from /opt/airflow/dags/dag_batch_etl.py
+[2025-08-25T12:37:02.099+0000] {logging_mixin.py:190} INFO - [2025-08-25T12:37:02.098+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-08-25T12:37:02.145+0000] {logging_mixin.py:190} INFO - [2025-08-25T12:37:02.145+0000] {dag.py:4180} INFO - Setting next_dagrun for batch_inplay_aggregation to 2025-08-25 12:30:00+00:00, run_after=2025-08-25 12:35:00+00:00
+[2025-08-25T12:37:02.179+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_batch_etl.py took 0.138 seconds
+[2025-08-25T12:37:32.996+0000] {processor.py:186} INFO - Started process (PID=327) to work on /opt/airflow/dags/dag_batch_etl.py
+[2025-08-25T12:37:32.998+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_batch_etl.py for tasks to queue
+[2025-08-25T12:37:33.001+0000] {logging_mixin.py:190} INFO - [2025-08-25T12:37:33.001+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/dag_batch_etl.py
+[2025-08-25T12:37:33.013+0000] {processor.py:925} INFO - DAG(s) 'batch_inplay_aggregation' retrieved from /opt/airflow/dags/dag_batch_etl.py
+[2025-08-25T12:37:33.041+0000] {logging_mixin.py:190} INFO - [2025-08-25T12:37:33.041+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-08-25T12:37:33.077+0000] {logging_mixin.py:190} INFO - [2025-08-25T12:37:33.076+0000] {dag.py:4180} INFO - Setting next_dagrun for batch_inplay_aggregation to 2025-08-25 12:30:00+00:00, run_after=2025-08-25 12:35:00+00:00
+[2025-08-25T12:37:33.109+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_batch_etl.py took 0.121 seconds
+[2025-08-25T12:38:03.962+0000] {processor.py:186} INFO - Started process (PID=391) to work on /opt/airflow/dags/dag_batch_etl.py
+[2025-08-25T12:38:03.965+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_batch_etl.py for tasks to queue
+[2025-08-25T12:38:03.969+0000] {logging_mixin.py:190} INFO - [2025-08-25T12:38:03.968+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/dag_batch_etl.py
+[2025-08-25T12:38:03.985+0000] {processor.py:925} INFO - DAG(s) 'batch_inplay_aggregation' retrieved from /opt/airflow/dags/dag_batch_etl.py
+[2025-08-25T12:38:04.017+0000] {logging_mixin.py:190} INFO - [2025-08-25T12:38:04.017+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-08-25T12:38:04.064+0000] {logging_mixin.py:190} INFO - [2025-08-25T12:38:04.064+0000] {dag.py:4180} INFO - Setting next_dagrun for batch_inplay_aggregation to 2025-08-25 12:30:00+00:00, run_after=2025-08-25 12:35:00+00:00
+[2025-08-25T12:38:04.099+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_batch_etl.py took 0.146 seconds
+[2025-08-25T12:38:34.802+0000] {processor.py:186} INFO - Started process (PID=455) to work on /opt/airflow/dags/dag_batch_etl.py
+[2025-08-25T12:38:34.804+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_batch_etl.py for tasks to queue
+[2025-08-25T12:38:34.809+0000] {logging_mixin.py:190} INFO - [2025-08-25T12:38:34.808+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/dag_batch_etl.py
+[2025-08-25T12:38:34.824+0000] {processor.py:925} INFO - DAG(s) 'batch_inplay_aggregation' retrieved from /opt/airflow/dags/dag_batch_etl.py
+[2025-08-25T12:38:34.854+0000] {logging_mixin.py:190} INFO - [2025-08-25T12:38:34.854+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-08-25T12:38:34.892+0000] {logging_mixin.py:190} INFO - [2025-08-25T12:38:34.892+0000] {dag.py:4180} INFO - Setting next_dagrun for batch_inplay_aggregation to 2025-08-25 12:30:00+00:00, run_after=2025-08-25 12:35:00+00:00
+[2025-08-25T12:38:34.920+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_batch_etl.py took 0.128 seconds
+[2025-08-25T12:39:05.318+0000] {processor.py:186} INFO - Started process (PID=519) to work on /opt/airflow/dags/dag_batch_etl.py
+[2025-08-25T12:39:05.321+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_batch_etl.py for tasks to queue
+[2025-08-25T12:39:05.324+0000] {logging_mixin.py:190} INFO - [2025-08-25T12:39:05.324+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/dag_batch_etl.py
+[2025-08-25T12:39:05.337+0000] {processor.py:925} INFO - DAG(s) 'batch_inplay_aggregation' retrieved from /opt/airflow/dags/dag_batch_etl.py
+[2025-08-25T12:39:05.371+0000] {logging_mixin.py:190} INFO - [2025-08-25T12:39:05.371+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-08-25T12:39:05.413+0000] {logging_mixin.py:190} INFO - [2025-08-25T12:39:05.412+0000] {dag.py:4180} INFO - Setting next_dagrun for batch_inplay_aggregation to 2025-08-25 12:30:00+00:00, run_after=2025-08-25 12:35:00+00:00
+[2025-08-25T12:39:05.436+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_batch_etl.py took 0.127 seconds
+[2025-08-25T12:39:35.689+0000] {processor.py:186} INFO - Started process (PID=583) to work on /opt/airflow/dags/dag_batch_etl.py
+[2025-08-25T12:39:35.692+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_batch_etl.py for tasks to queue
+[2025-08-25T12:39:35.696+0000] {logging_mixin.py:190} INFO - [2025-08-25T12:39:35.695+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/dag_batch_etl.py
+[2025-08-25T12:39:35.713+0000] {processor.py:925} INFO - DAG(s) 'batch_inplay_aggregation' retrieved from /opt/airflow/dags/dag_batch_etl.py
+[2025-08-25T12:39:35.742+0000] {logging_mixin.py:190} INFO - [2025-08-25T12:39:35.741+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-08-25T12:39:35.780+0000] {logging_mixin.py:190} INFO - [2025-08-25T12:39:35.779+0000] {dag.py:4180} INFO - Setting next_dagrun for batch_inplay_aggregation to 2025-08-25 12:30:00+00:00, run_after=2025-08-25 12:35:00+00:00
+[2025-08-25T12:39:35.806+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_batch_etl.py took 0.126 seconds
+[2025-08-25T12:40:06.055+0000] {processor.py:186} INFO - Started process (PID=647) to work on /opt/airflow/dags/dag_batch_etl.py
+[2025-08-25T12:40:06.058+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_batch_etl.py for tasks to queue
+[2025-08-25T12:40:06.062+0000] {logging_mixin.py:190} INFO - [2025-08-25T12:40:06.061+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/dag_batch_etl.py
+[2025-08-25T12:40:06.076+0000] {processor.py:925} INFO - DAG(s) 'batch_inplay_aggregation' retrieved from /opt/airflow/dags/dag_batch_etl.py
+[2025-08-25T12:40:06.105+0000] {logging_mixin.py:190} INFO - [2025-08-25T12:40:06.105+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-08-25T12:40:06.162+0000] {logging_mixin.py:190} INFO - [2025-08-25T12:40:06.161+0000] {dag.py:4180} INFO - Setting next_dagrun for batch_inplay_aggregation to 2025-08-25 12:35:00+00:00, run_after=2025-08-25 12:40:00+00:00
+[2025-08-25T12:40:06.193+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_batch_etl.py took 0.146 seconds
+[2025-08-25T12:40:36.582+0000] {processor.py:186} INFO - Started process (PID=711) to work on /opt/airflow/dags/dag_batch_etl.py
+[2025-08-25T12:40:36.585+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_batch_etl.py for tasks to queue
+[2025-08-25T12:40:36.590+0000] {logging_mixin.py:190} INFO - [2025-08-25T12:40:36.589+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/dag_batch_etl.py
+[2025-08-25T12:40:36.606+0000] {processor.py:925} INFO - DAG(s) 'batch_inplay_aggregation' retrieved from /opt/airflow/dags/dag_batch_etl.py
+[2025-08-25T12:40:36.637+0000] {logging_mixin.py:190} INFO - [2025-08-25T12:40:36.636+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-08-25T12:40:36.678+0000] {logging_mixin.py:190} INFO - [2025-08-25T12:40:36.677+0000] {dag.py:4180} INFO - Setting next_dagrun for batch_inplay_aggregation to 2025-08-25 12:35:00+00:00, run_after=2025-08-25 12:40:00+00:00
+[2025-08-25T12:40:36.710+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_batch_etl.py took 0.138 seconds
+[2025-08-25T12:40:39.762+0000] {processor.py:186} INFO - Started process (PID=724) to work on /opt/airflow/dags/dag_batch_etl.py
+[2025-08-25T12:40:39.763+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_batch_etl.py for tasks to queue
+[2025-08-25T12:40:39.766+0000] {logging_mixin.py:190} INFO - [2025-08-25T12:40:39.765+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/dag_batch_etl.py
+[2025-08-25T12:40:39.779+0000] {processor.py:925} INFO - DAG(s) 'batch_inplay_aggregation' retrieved from /opt/airflow/dags/dag_batch_etl.py
+[2025-08-25T12:40:39.938+0000] {logging_mixin.py:190} INFO - [2025-08-25T12:40:39.938+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-08-25T12:40:39.971+0000] {logging_mixin.py:190} INFO - [2025-08-25T12:40:39.971+0000] {dag.py:4180} INFO - Setting next_dagrun for batch_inplay_aggregation to 2025-08-25 12:38:00+00:00, run_after=2025-08-25 12:40:00+00:00
+[2025-08-25T12:40:40.000+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_batch_etl.py took 0.246 seconds
+[2025-08-25T12:40:42.896+0000] {processor.py:186} INFO - Started process (PID=747) to work on /opt/airflow/dags/dag_batch_etl.py
+[2025-08-25T12:40:42.898+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_batch_etl.py for tasks to queue
+[2025-08-25T12:40:42.901+0000] {logging_mixin.py:190} INFO - [2025-08-25T12:40:42.900+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/dag_batch_etl.py
+[2025-08-25T12:40:42.913+0000] {processor.py:925} INFO - DAG(s) 'batch_inplay_aggregation' retrieved from /opt/airflow/dags/dag_batch_etl.py
+[2025-08-25T12:40:42.932+0000] {logging_mixin.py:190} INFO - [2025-08-25T12:40:42.931+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-08-25T12:40:42.969+0000] {logging_mixin.py:190} INFO - [2025-08-25T12:40:42.968+0000] {dag.py:4180} INFO - Setting next_dagrun for batch_inplay_aggregation to 2025-08-25 12:39:00+00:00, run_after=2025-08-25 12:40:00+00:00
+[2025-08-25T12:40:42.990+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_batch_etl.py took 0.102 seconds
+[2025-08-25T12:40:45.890+0000] {processor.py:186} INFO - Started process (PID=757) to work on /opt/airflow/dags/dag_batch_etl.py
+[2025-08-25T12:40:45.891+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_batch_etl.py for tasks to queue
+[2025-08-25T12:40:45.894+0000] {logging_mixin.py:190} INFO - [2025-08-25T12:40:45.893+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/dag_batch_etl.py
+[2025-08-25T12:40:45.908+0000] {processor.py:925} INFO - DAG(s) 'batch_inplay_aggregation' retrieved from /opt/airflow/dags/dag_batch_etl.py
+[2025-08-25T12:40:45.928+0000] {logging_mixin.py:190} INFO - [2025-08-25T12:40:45.928+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-08-25T12:40:45.965+0000] {logging_mixin.py:190} INFO - [2025-08-25T12:40:45.965+0000] {dag.py:4180} INFO - Setting next_dagrun for batch_inplay_aggregation to 2025-08-25 12:39:00+00:00, run_after=2025-08-25 12:40:00+00:00
+[2025-08-25T12:40:45.984+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_batch_etl.py took 0.104 seconds
+[2025-08-25T12:40:51.278+0000] {processor.py:186} INFO - Started process (PID=772) to work on /opt/airflow/dags/dag_batch_etl.py
+[2025-08-25T12:40:51.280+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_batch_etl.py for tasks to queue
+[2025-08-25T12:40:51.284+0000] {logging_mixin.py:190} INFO - [2025-08-25T12:40:51.283+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/dag_batch_etl.py
+[2025-08-25T12:40:51.297+0000] {processor.py:925} INFO - DAG(s) 'batch_inplay_aggregation' retrieved from /opt/airflow/dags/dag_batch_etl.py
+[2025-08-25T12:40:51.312+0000] {logging_mixin.py:190} INFO - [2025-08-25T12:40:51.312+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-08-25T12:40:51.346+0000] {logging_mixin.py:190} INFO - [2025-08-25T12:40:51.346+0000] {dag.py:4180} INFO - Setting next_dagrun for batch_inplay_aggregation to 2025-08-25 12:38:00+00:00, run_after=2025-08-25 12:40:00+00:00
+[2025-08-25T12:40:51.374+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_batch_etl.py took 0.107 seconds
+[2025-08-25T12:40:55.351+0000] {processor.py:186} INFO - Started process (PID=773) to work on /opt/airflow/dags/dag_batch_etl.py
+[2025-08-25T12:40:55.353+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_batch_etl.py for tasks to queue
+[2025-08-25T12:40:55.356+0000] {logging_mixin.py:190} INFO - [2025-08-25T12:40:55.356+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/dag_batch_etl.py
+[2025-08-25T12:40:55.367+0000] {processor.py:925} INFO - DAG(s) 'batch_inplay_aggregation' retrieved from /opt/airflow/dags/dag_batch_etl.py
+[2025-08-25T12:40:55.383+0000] {logging_mixin.py:190} INFO - [2025-08-25T12:40:55.382+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-08-25T12:40:55.415+0000] {logging_mixin.py:190} INFO - [2025-08-25T12:40:55.415+0000] {dag.py:4180} INFO - Setting next_dagrun for batch_inplay_aggregation to 2025-08-25 12:38:00+00:00, run_after=2025-08-25 12:40:00+00:00
+[2025-08-25T12:40:55.445+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_batch_etl.py took 0.101 seconds
+[2025-08-25T12:41:26.064+0000] {processor.py:186} INFO - Started process (PID=836) to work on /opt/airflow/dags/dag_batch_etl.py
+[2025-08-25T12:41:26.066+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_batch_etl.py for tasks to queue
+[2025-08-25T12:41:26.069+0000] {logging_mixin.py:190} INFO - [2025-08-25T12:41:26.068+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/dag_batch_etl.py
+[2025-08-25T12:41:26.077+0000] {processor.py:925} INFO - DAG(s) 'batch_inplay_aggregation' retrieved from /opt/airflow/dags/dag_batch_etl.py
+[2025-08-25T12:41:26.102+0000] {logging_mixin.py:190} INFO - [2025-08-25T12:41:26.102+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-08-25T12:41:26.144+0000] {logging_mixin.py:190} INFO - [2025-08-25T12:41:26.144+0000] {dag.py:4180} INFO - Setting next_dagrun for batch_inplay_aggregation to 2025-08-25 12:38:00+00:00, run_after=2025-08-25 12:40:00+00:00
+[2025-08-25T12:41:26.171+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_batch_etl.py took 0.115 seconds
+[2025-08-25T12:41:56.534+0000] {processor.py:186} INFO - Started process (PID=900) to work on /opt/airflow/dags/dag_batch_etl.py
+[2025-08-25T12:41:56.536+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_batch_etl.py for tasks to queue
+[2025-08-25T12:41:56.539+0000] {logging_mixin.py:190} INFO - [2025-08-25T12:41:56.538+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/dag_batch_etl.py
+[2025-08-25T12:41:56.549+0000] {processor.py:925} INFO - DAG(s) 'batch_inplay_aggregation' retrieved from /opt/airflow/dags/dag_batch_etl.py
+[2025-08-25T12:41:56.573+0000] {logging_mixin.py:190} INFO - [2025-08-25T12:41:56.573+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-08-25T12:41:56.613+0000] {logging_mixin.py:190} INFO - [2025-08-25T12:41:56.613+0000] {dag.py:4180} INFO - Setting next_dagrun for batch_inplay_aggregation to 2025-08-25 12:38:00+00:00, run_after=2025-08-25 12:40:00+00:00
+[2025-08-25T12:41:56.640+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_batch_etl.py took 0.113 seconds
+[2025-08-25T12:42:27.468+0000] {processor.py:186} INFO - Started process (PID=970) to work on /opt/airflow/dags/dag_batch_etl.py
+[2025-08-25T12:42:27.471+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_batch_etl.py for tasks to queue
+[2025-08-25T12:42:27.474+0000] {logging_mixin.py:190} INFO - [2025-08-25T12:42:27.473+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/dag_batch_etl.py
+[2025-08-25T12:42:27.484+0000] {processor.py:925} INFO - DAG(s) 'batch_inplay_aggregation' retrieved from /opt/airflow/dags/dag_batch_etl.py
+[2025-08-25T12:42:27.509+0000] {logging_mixin.py:190} INFO - [2025-08-25T12:42:27.509+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-08-25T12:42:27.540+0000] {logging_mixin.py:190} INFO - [2025-08-25T12:42:27.539+0000] {dag.py:4180} INFO - Setting next_dagrun for batch_inplay_aggregation to 2025-08-25 12:40:00+00:00, run_after=2025-08-25 12:42:00+00:00
+[2025-08-25T12:42:27.562+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_batch_etl.py took 0.101 seconds
+[2025-08-25T12:42:58.158+0000] {processor.py:186} INFO - Started process (PID=1034) to work on /opt/airflow/dags/dag_batch_etl.py
+[2025-08-25T12:42:58.160+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_batch_etl.py for tasks to queue
+[2025-08-25T12:42:58.164+0000] {logging_mixin.py:190} INFO - [2025-08-25T12:42:58.163+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/dag_batch_etl.py
+[2025-08-25T12:42:58.177+0000] {processor.py:925} INFO - DAG(s) 'batch_inplay_aggregation' retrieved from /opt/airflow/dags/dag_batch_etl.py
+[2025-08-25T12:42:58.201+0000] {logging_mixin.py:190} INFO - [2025-08-25T12:42:58.201+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-08-25T12:42:58.233+0000] {logging_mixin.py:190} INFO - [2025-08-25T12:42:58.233+0000] {dag.py:4180} INFO - Setting next_dagrun for batch_inplay_aggregation to 2025-08-25 12:40:00+00:00, run_after=2025-08-25 12:42:00+00:00
+[2025-08-25T12:42:58.258+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_batch_etl.py took 0.109 seconds
+[2025-08-25T12:43:29.000+0000] {processor.py:186} INFO - Started process (PID=1098) to work on /opt/airflow/dags/dag_batch_etl.py
+[2025-08-25T12:43:29.002+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_batch_etl.py for tasks to queue
+[2025-08-25T12:43:29.006+0000] {logging_mixin.py:190} INFO - [2025-08-25T12:43:29.005+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/dag_batch_etl.py
+[2025-08-25T12:43:29.016+0000] {processor.py:925} INFO - DAG(s) 'batch_inplay_aggregation' retrieved from /opt/airflow/dags/dag_batch_etl.py
+[2025-08-25T12:43:29.041+0000] {logging_mixin.py:190} INFO - [2025-08-25T12:43:29.040+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-08-25T12:43:29.073+0000] {logging_mixin.py:190} INFO - [2025-08-25T12:43:29.073+0000] {dag.py:4180} INFO - Setting next_dagrun for batch_inplay_aggregation to 2025-08-25 12:40:00+00:00, run_after=2025-08-25 12:42:00+00:00
+[2025-08-25T12:43:29.097+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_batch_etl.py took 0.104 seconds
+[2025-08-25T12:43:59.521+0000] {processor.py:186} INFO - Started process (PID=1162) to work on /opt/airflow/dags/dag_batch_etl.py
+[2025-08-25T12:43:59.522+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_batch_etl.py for tasks to queue
+[2025-08-25T12:43:59.525+0000] {logging_mixin.py:190} INFO - [2025-08-25T12:43:59.525+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/dag_batch_etl.py
+[2025-08-25T12:43:59.536+0000] {processor.py:925} INFO - DAG(s) 'batch_inplay_aggregation' retrieved from /opt/airflow/dags/dag_batch_etl.py
+[2025-08-25T12:43:59.561+0000] {logging_mixin.py:190} INFO - [2025-08-25T12:43:59.560+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-08-25T12:43:59.591+0000] {logging_mixin.py:190} INFO - [2025-08-25T12:43:59.590+0000] {dag.py:4180} INFO - Setting next_dagrun for batch_inplay_aggregation to 2025-08-25 12:40:00+00:00, run_after=2025-08-25 12:42:00+00:00
+[2025-08-25T12:43:59.612+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_batch_etl.py took 0.099 seconds
+[2025-08-25T12:44:29.869+0000] {processor.py:186} INFO - Started process (PID=1226) to work on /opt/airflow/dags/dag_batch_etl.py
+[2025-08-25T12:44:29.870+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_batch_etl.py for tasks to queue
+[2025-08-25T12:44:29.873+0000] {logging_mixin.py:190} INFO - [2025-08-25T12:44:29.873+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/dag_batch_etl.py
+[2025-08-25T12:44:29.885+0000] {processor.py:925} INFO - DAG(s) 'batch_inplay_aggregation' retrieved from /opt/airflow/dags/dag_batch_etl.py
+[2025-08-25T12:44:29.913+0000] {logging_mixin.py:190} INFO - [2025-08-25T12:44:29.912+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-08-25T12:44:29.958+0000] {logging_mixin.py:190} INFO - [2025-08-25T12:44:29.957+0000] {dag.py:4180} INFO - Setting next_dagrun for batch_inplay_aggregation to 2025-08-25 12:42:00+00:00, run_after=2025-08-25 12:44:00+00:00
+[2025-08-25T12:44:29.980+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_batch_etl.py took 0.118 seconds
+[2025-08-25T12:45:00.612+0000] {processor.py:186} INFO - Started process (PID=1290) to work on /opt/airflow/dags/dag_batch_etl.py
+[2025-08-25T12:45:00.614+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_batch_etl.py for tasks to queue
+[2025-08-25T12:45:00.618+0000] {logging_mixin.py:190} INFO - [2025-08-25T12:45:00.617+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/dag_batch_etl.py
+[2025-08-25T12:45:00.628+0000] {processor.py:925} INFO - DAG(s) 'batch_inplay_aggregation' retrieved from /opt/airflow/dags/dag_batch_etl.py
+[2025-08-25T12:45:00.656+0000] {logging_mixin.py:190} INFO - [2025-08-25T12:45:00.656+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-08-25T12:45:00.692+0000] {logging_mixin.py:190} INFO - [2025-08-25T12:45:00.692+0000] {dag.py:4180} INFO - Setting next_dagrun for batch_inplay_aggregation to 2025-08-25 12:42:00+00:00, run_after=2025-08-25 12:44:00+00:00
+[2025-08-25T12:45:00.716+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_batch_etl.py took 0.115 seconds
+[2025-08-25T12:45:31.043+0000] {processor.py:186} INFO - Started process (PID=1354) to work on /opt/airflow/dags/dag_batch_etl.py
+[2025-08-25T12:45:31.046+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_batch_etl.py for tasks to queue
+[2025-08-25T12:45:31.053+0000] {logging_mixin.py:190} INFO - [2025-08-25T12:45:31.052+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/dag_batch_etl.py
+[2025-08-25T12:45:31.081+0000] {processor.py:925} INFO - DAG(s) 'batch_inplay_aggregation' retrieved from /opt/airflow/dags/dag_batch_etl.py
+[2025-08-25T12:45:31.130+0000] {logging_mixin.py:190} INFO - [2025-08-25T12:45:31.126+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-08-25T12:45:31.201+0000] {logging_mixin.py:190} INFO - [2025-08-25T12:45:31.201+0000] {dag.py:4180} INFO - Setting next_dagrun for batch_inplay_aggregation to 2025-08-25 12:42:00+00:00, run_after=2025-08-25 12:44:00+00:00
+[2025-08-25T12:45:31.239+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_batch_etl.py took 0.214 seconds
+[2025-08-25T12:46:01.347+0000] {processor.py:186} INFO - Started process (PID=1418) to work on /opt/airflow/dags/dag_batch_etl.py
+[2025-08-25T12:46:01.350+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_batch_etl.py for tasks to queue
+[2025-08-25T12:46:01.354+0000] {logging_mixin.py:190} INFO - [2025-08-25T12:46:01.353+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/dag_batch_etl.py
+[2025-08-25T12:46:01.368+0000] {processor.py:925} INFO - DAG(s) 'batch_inplay_aggregation' retrieved from /opt/airflow/dags/dag_batch_etl.py
+[2025-08-25T12:46:01.396+0000] {logging_mixin.py:190} INFO - [2025-08-25T12:46:01.395+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-08-25T12:46:01.428+0000] {logging_mixin.py:190} INFO - [2025-08-25T12:46:01.428+0000] {dag.py:4180} INFO - Setting next_dagrun for batch_inplay_aggregation to 2025-08-25 12:44:00+00:00, run_after=2025-08-25 12:46:00+00:00
+[2025-08-25T12:46:01.451+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_batch_etl.py took 0.114 seconds
+[2025-08-25T12:46:32.260+0000] {processor.py:186} INFO - Started process (PID=1482) to work on /opt/airflow/dags/dag_batch_etl.py
+[2025-08-25T12:46:32.261+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_batch_etl.py for tasks to queue
+[2025-08-25T12:46:32.265+0000] {logging_mixin.py:190} INFO - [2025-08-25T12:46:32.264+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/dag_batch_etl.py
+[2025-08-25T12:46:32.275+0000] {processor.py:925} INFO - DAG(s) 'batch_inplay_aggregation' retrieved from /opt/airflow/dags/dag_batch_etl.py
+[2025-08-25T12:46:32.307+0000] {logging_mixin.py:190} INFO - [2025-08-25T12:46:32.306+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-08-25T12:46:32.355+0000] {logging_mixin.py:190} INFO - [2025-08-25T12:46:32.354+0000] {dag.py:4180} INFO - Setting next_dagrun for batch_inplay_aggregation to 2025-08-25 12:44:00+00:00, run_after=2025-08-25 12:46:00+00:00
+[2025-08-25T12:46:32.389+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_batch_etl.py took 0.137 seconds
+[2025-08-25T12:47:02.664+0000] {processor.py:186} INFO - Started process (PID=1546) to work on /opt/airflow/dags/dag_batch_etl.py
+[2025-08-25T12:47:02.665+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_batch_etl.py for tasks to queue
+[2025-08-25T12:47:02.668+0000] {logging_mixin.py:190} INFO - [2025-08-25T12:47:02.668+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/dag_batch_etl.py
+[2025-08-25T12:47:02.677+0000] {processor.py:925} INFO - DAG(s) 'batch_inplay_aggregation' retrieved from /opt/airflow/dags/dag_batch_etl.py
+[2025-08-25T12:47:02.704+0000] {logging_mixin.py:190} INFO - [2025-08-25T12:47:02.704+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-08-25T12:47:02.738+0000] {logging_mixin.py:190} INFO - [2025-08-25T12:47:02.737+0000] {dag.py:4180} INFO - Setting next_dagrun for batch_inplay_aggregation to 2025-08-25 12:44:00+00:00, run_after=2025-08-25 12:46:00+00:00
+[2025-08-25T12:47:02.762+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_batch_etl.py took 0.105 seconds
+[2025-08-25T12:47:33.264+0000] {processor.py:186} INFO - Started process (PID=1610) to work on /opt/airflow/dags/dag_batch_etl.py
+[2025-08-25T12:47:33.266+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_batch_etl.py for tasks to queue
+[2025-08-25T12:47:33.269+0000] {logging_mixin.py:190} INFO - [2025-08-25T12:47:33.268+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/dag_batch_etl.py
+[2025-08-25T12:47:33.280+0000] {processor.py:925} INFO - DAG(s) 'batch_inplay_aggregation' retrieved from /opt/airflow/dags/dag_batch_etl.py
+[2025-08-25T12:47:33.312+0000] {logging_mixin.py:190} INFO - [2025-08-25T12:47:33.312+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-08-25T12:47:33.346+0000] {logging_mixin.py:190} INFO - [2025-08-25T12:47:33.346+0000] {dag.py:4180} INFO - Setting next_dagrun for batch_inplay_aggregation to 2025-08-25 12:44:00+00:00, run_after=2025-08-25 12:46:00+00:00
+[2025-08-25T12:47:33.370+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_batch_etl.py took 0.114 seconds
+[2025-08-25T12:48:03.614+0000] {processor.py:186} INFO - Started process (PID=1674) to work on /opt/airflow/dags/dag_batch_etl.py
+[2025-08-25T12:48:03.616+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_batch_etl.py for tasks to queue
+[2025-08-25T12:48:03.619+0000] {logging_mixin.py:190} INFO - [2025-08-25T12:48:03.619+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/dag_batch_etl.py
+[2025-08-25T12:48:03.630+0000] {processor.py:925} INFO - DAG(s) 'batch_inplay_aggregation' retrieved from /opt/airflow/dags/dag_batch_etl.py
+[2025-08-25T12:48:03.656+0000] {logging_mixin.py:190} INFO - [2025-08-25T12:48:03.656+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-08-25T12:48:03.690+0000] {logging_mixin.py:190} INFO - [2025-08-25T12:48:03.689+0000] {dag.py:4180} INFO - Setting next_dagrun for batch_inplay_aggregation to 2025-08-25 12:46:00+00:00, run_after=2025-08-25 12:48:00+00:00
+[2025-08-25T12:48:03.716+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_batch_etl.py took 0.109 seconds
+[2025-08-25T12:48:34.332+0000] {processor.py:186} INFO - Started process (PID=1738) to work on /opt/airflow/dags/dag_batch_etl.py
+[2025-08-25T12:48:34.334+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_batch_etl.py for tasks to queue
+[2025-08-25T12:48:34.337+0000] {logging_mixin.py:190} INFO - [2025-08-25T12:48:34.337+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/dag_batch_etl.py
+[2025-08-25T12:48:34.354+0000] {processor.py:925} INFO - DAG(s) 'batch_inplay_aggregation' retrieved from /opt/airflow/dags/dag_batch_etl.py
+[2025-08-25T12:48:34.383+0000] {logging_mixin.py:190} INFO - [2025-08-25T12:48:34.383+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-08-25T12:48:34.414+0000] {logging_mixin.py:190} INFO - [2025-08-25T12:48:34.414+0000] {dag.py:4180} INFO - Setting next_dagrun for batch_inplay_aggregation to 2025-08-25 12:46:00+00:00, run_after=2025-08-25 12:48:00+00:00
+[2025-08-25T12:48:34.437+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_batch_etl.py took 0.111 seconds
+[2025-08-25T12:49:05.307+0000] {processor.py:186} INFO - Started process (PID=1802) to work on /opt/airflow/dags/dag_batch_etl.py
+[2025-08-25T12:49:05.309+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_batch_etl.py for tasks to queue
+[2025-08-25T12:49:05.316+0000] {logging_mixin.py:190} INFO - [2025-08-25T12:49:05.315+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/dag_batch_etl.py
+[2025-08-25T12:49:05.339+0000] {processor.py:925} INFO - DAG(s) 'batch_inplay_aggregation' retrieved from /opt/airflow/dags/dag_batch_etl.py
+[2025-08-25T12:49:05.387+0000] {logging_mixin.py:190} INFO - [2025-08-25T12:49:05.386+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-08-25T12:49:05.454+0000] {logging_mixin.py:190} INFO - [2025-08-25T12:49:05.453+0000] {dag.py:4180} INFO - Setting next_dagrun for batch_inplay_aggregation to 2025-08-25 12:46:00+00:00, run_after=2025-08-25 12:48:00+00:00
+[2025-08-25T12:49:05.490+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_batch_etl.py took 0.191 seconds
+[2025-08-25T12:49:36.338+0000] {processor.py:186} INFO - Started process (PID=1866) to work on /opt/airflow/dags/dag_batch_etl.py
+[2025-08-25T12:49:36.339+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_batch_etl.py for tasks to queue
+[2025-08-25T12:49:36.342+0000] {logging_mixin.py:190} INFO - [2025-08-25T12:49:36.341+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/dag_batch_etl.py
+[2025-08-25T12:49:36.352+0000] {processor.py:925} INFO - DAG(s) 'batch_inplay_aggregation' retrieved from /opt/airflow/dags/dag_batch_etl.py
+[2025-08-25T12:49:36.378+0000] {logging_mixin.py:190} INFO - [2025-08-25T12:49:36.378+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-08-25T12:49:36.408+0000] {logging_mixin.py:190} INFO - [2025-08-25T12:49:36.408+0000] {dag.py:4180} INFO - Setting next_dagrun for batch_inplay_aggregation to 2025-08-25 12:46:00+00:00, run_after=2025-08-25 12:48:00+00:00
+[2025-08-25T12:49:36.431+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_batch_etl.py took 0.102 seconds
+[2025-08-25T12:50:07.245+0000] {processor.py:186} INFO - Started process (PID=1930) to work on /opt/airflow/dags/dag_batch_etl.py
+[2025-08-25T12:50:07.248+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_batch_etl.py for tasks to queue
+[2025-08-25T12:50:07.252+0000] {logging_mixin.py:190} INFO - [2025-08-25T12:50:07.252+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/dag_batch_etl.py
+[2025-08-25T12:50:07.265+0000] {processor.py:925} INFO - DAG(s) 'batch_inplay_aggregation' retrieved from /opt/airflow/dags/dag_batch_etl.py
+[2025-08-25T12:50:07.307+0000] {logging_mixin.py:190} INFO - [2025-08-25T12:50:07.307+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-08-25T12:50:07.374+0000] {logging_mixin.py:190} INFO - [2025-08-25T12:50:07.374+0000] {dag.py:4180} INFO - Setting next_dagrun for batch_inplay_aggregation to 2025-08-25 12:48:00+00:00, run_after=2025-08-25 12:50:00+00:00
+[2025-08-25T12:50:07.410+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_batch_etl.py took 0.172 seconds
+[2025-08-25T12:50:37.836+0000] {processor.py:186} INFO - Started process (PID=1994) to work on /opt/airflow/dags/dag_batch_etl.py
+[2025-08-25T12:50:37.838+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_batch_etl.py for tasks to queue
+[2025-08-25T12:50:37.841+0000] {logging_mixin.py:190} INFO - [2025-08-25T12:50:37.841+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/dag_batch_etl.py
+[2025-08-25T12:50:37.851+0000] {processor.py:925} INFO - DAG(s) 'batch_inplay_aggregation' retrieved from /opt/airflow/dags/dag_batch_etl.py
+[2025-08-25T12:50:37.875+0000] {logging_mixin.py:190} INFO - [2025-08-25T12:50:37.875+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-08-25T12:50:37.911+0000] {logging_mixin.py:190} INFO - [2025-08-25T12:50:37.911+0000] {dag.py:4180} INFO - Setting next_dagrun for batch_inplay_aggregation to 2025-08-25 12:48:00+00:00, run_after=2025-08-25 12:50:00+00:00
+[2025-08-25T12:50:37.933+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_batch_etl.py took 0.104 seconds
+[2025-08-25T12:51:08.805+0000] {processor.py:186} INFO - Started process (PID=2058) to work on /opt/airflow/dags/dag_batch_etl.py
+[2025-08-25T12:51:08.807+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_batch_etl.py for tasks to queue
+[2025-08-25T12:51:08.809+0000] {logging_mixin.py:190} INFO - [2025-08-25T12:51:08.809+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/dag_batch_etl.py
+[2025-08-25T12:51:08.819+0000] {processor.py:925} INFO - DAG(s) 'batch_inplay_aggregation' retrieved from /opt/airflow/dags/dag_batch_etl.py
+[2025-08-25T12:51:08.847+0000] {logging_mixin.py:190} INFO - [2025-08-25T12:51:08.846+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-08-25T12:51:08.876+0000] {logging_mixin.py:190} INFO - [2025-08-25T12:51:08.876+0000] {dag.py:4180} INFO - Setting next_dagrun for batch_inplay_aggregation to 2025-08-25 12:48:00+00:00, run_after=2025-08-25 12:50:00+00:00
+[2025-08-25T12:51:08.898+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_batch_etl.py took 0.102 seconds
+[2025-08-25T12:51:39.461+0000] {processor.py:186} INFO - Started process (PID=2122) to work on /opt/airflow/dags/dag_batch_etl.py
+[2025-08-25T12:51:39.463+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_batch_etl.py for tasks to queue
+[2025-08-25T12:51:39.465+0000] {logging_mixin.py:190} INFO - [2025-08-25T12:51:39.465+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/dag_batch_etl.py
+[2025-08-25T12:51:39.474+0000] {processor.py:925} INFO - DAG(s) 'batch_inplay_aggregation' retrieved from /opt/airflow/dags/dag_batch_etl.py
+[2025-08-25T12:51:39.504+0000] {logging_mixin.py:190} INFO - [2025-08-25T12:51:39.503+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-08-25T12:51:39.542+0000] {logging_mixin.py:190} INFO - [2025-08-25T12:51:39.542+0000] {dag.py:4180} INFO - Setting next_dagrun for batch_inplay_aggregation to 2025-08-25 12:48:00+00:00, run_after=2025-08-25 12:50:00+00:00
+[2025-08-25T12:51:39.568+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_batch_etl.py took 0.114 seconds
+[2025-08-25T12:52:10.390+0000] {processor.py:186} INFO - Started process (PID=2186) to work on /opt/airflow/dags/dag_batch_etl.py
+[2025-08-25T12:52:10.392+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_batch_etl.py for tasks to queue
+[2025-08-25T12:52:10.395+0000] {logging_mixin.py:190} INFO - [2025-08-25T12:52:10.395+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/dag_batch_etl.py
+[2025-08-25T12:52:10.405+0000] {processor.py:925} INFO - DAG(s) 'batch_inplay_aggregation' retrieved from /opt/airflow/dags/dag_batch_etl.py
+[2025-08-25T12:52:10.429+0000] {logging_mixin.py:190} INFO - [2025-08-25T12:52:10.428+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-08-25T12:52:10.457+0000] {logging_mixin.py:190} INFO - [2025-08-25T12:52:10.457+0000] {dag.py:4180} INFO - Setting next_dagrun for batch_inplay_aggregation to 2025-08-25 12:50:00+00:00, run_after=2025-08-25 12:52:00+00:00
+[2025-08-25T12:52:10.484+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_batch_etl.py took 0.101 seconds
+[2025-08-25T12:52:40.664+0000] {processor.py:186} INFO - Started process (PID=2250) to work on /opt/airflow/dags/dag_batch_etl.py
+[2025-08-25T12:52:40.665+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_batch_etl.py for tasks to queue
+[2025-08-25T12:52:40.670+0000] {logging_mixin.py:190} INFO - [2025-08-25T12:52:40.670+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/dag_batch_etl.py
+[2025-08-25T12:52:40.688+0000] {processor.py:925} INFO - DAG(s) 'batch_inplay_aggregation' retrieved from /opt/airflow/dags/dag_batch_etl.py
+[2025-08-25T12:52:40.719+0000] {logging_mixin.py:190} INFO - [2025-08-25T12:52:40.718+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-08-25T12:52:40.770+0000] {logging_mixin.py:190} INFO - [2025-08-25T12:52:40.769+0000] {dag.py:4180} INFO - Setting next_dagrun for batch_inplay_aggregation to 2025-08-25 12:50:00+00:00, run_after=2025-08-25 12:52:00+00:00
+[2025-08-25T12:52:40.807+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_batch_etl.py took 0.156 seconds
+[2025-08-25T12:53:10.960+0000] {processor.py:186} INFO - Started process (PID=2314) to work on /opt/airflow/dags/dag_batch_etl.py
+[2025-08-25T12:53:10.962+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_batch_etl.py for tasks to queue
+[2025-08-25T12:53:10.965+0000] {logging_mixin.py:190} INFO - [2025-08-25T12:53:10.965+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/dag_batch_etl.py
+[2025-08-25T12:53:10.976+0000] {processor.py:925} INFO - DAG(s) 'batch_inplay_aggregation' retrieved from /opt/airflow/dags/dag_batch_etl.py
+[2025-08-25T12:53:11.000+0000] {logging_mixin.py:190} INFO - [2025-08-25T12:53:10.999+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-08-25T12:53:11.028+0000] {logging_mixin.py:190} INFO - [2025-08-25T12:53:11.028+0000] {dag.py:4180} INFO - Setting next_dagrun for batch_inplay_aggregation to 2025-08-25 12:50:00+00:00, run_after=2025-08-25 12:52:00+00:00
+[2025-08-25T12:53:11.050+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_batch_etl.py took 0.097 seconds
+[2025-08-25T12:53:41.706+0000] {processor.py:186} INFO - Started process (PID=2378) to work on /opt/airflow/dags/dag_batch_etl.py
+[2025-08-25T12:53:41.707+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_batch_etl.py for tasks to queue
+[2025-08-25T12:53:41.713+0000] {logging_mixin.py:190} INFO - [2025-08-25T12:53:41.712+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/dag_batch_etl.py
+[2025-08-25T12:53:41.727+0000] {processor.py:925} INFO - DAG(s) 'batch_inplay_aggregation' retrieved from /opt/airflow/dags/dag_batch_etl.py
+[2025-08-25T12:53:41.767+0000] {logging_mixin.py:190} INFO - [2025-08-25T12:53:41.766+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-08-25T12:53:41.809+0000] {logging_mixin.py:190} INFO - [2025-08-25T12:53:41.809+0000] {dag.py:4180} INFO - Setting next_dagrun for batch_inplay_aggregation to 2025-08-25 12:50:00+00:00, run_after=2025-08-25 12:52:00+00:00
+[2025-08-25T12:53:41.832+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_batch_etl.py took 0.139 seconds
+[2025-08-25T12:54:12.559+0000] {processor.py:186} INFO - Started process (PID=2442) to work on /opt/airflow/dags/dag_batch_etl.py
+[2025-08-25T12:54:12.561+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_batch_etl.py for tasks to queue
+[2025-08-25T12:54:12.564+0000] {logging_mixin.py:190} INFO - [2025-08-25T12:54:12.563+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/dag_batch_etl.py
+[2025-08-25T12:54:12.575+0000] {processor.py:925} INFO - DAG(s) 'batch_inplay_aggregation' retrieved from /opt/airflow/dags/dag_batch_etl.py
+[2025-08-25T12:54:12.601+0000] {logging_mixin.py:190} INFO - [2025-08-25T12:54:12.601+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-08-25T12:54:12.631+0000] {logging_mixin.py:190} INFO - [2025-08-25T12:54:12.631+0000] {dag.py:4180} INFO - Setting next_dagrun for batch_inplay_aggregation to 2025-08-25 12:52:00+00:00, run_after=2025-08-25 12:54:00+00:00
+[2025-08-25T12:54:12.654+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_batch_etl.py took 0.103 seconds
+[2025-08-25T12:54:43.423+0000] {processor.py:186} INFO - Started process (PID=2506) to work on /opt/airflow/dags/dag_batch_etl.py
+[2025-08-25T12:54:43.425+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_batch_etl.py for tasks to queue
+[2025-08-25T12:54:43.428+0000] {logging_mixin.py:190} INFO - [2025-08-25T12:54:43.427+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/dag_batch_etl.py
+[2025-08-25T12:54:43.438+0000] {processor.py:925} INFO - DAG(s) 'batch_inplay_aggregation' retrieved from /opt/airflow/dags/dag_batch_etl.py
+[2025-08-25T12:54:43.464+0000] {logging_mixin.py:190} INFO - [2025-08-25T12:54:43.463+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-08-25T12:54:43.494+0000] {logging_mixin.py:190} INFO - [2025-08-25T12:54:43.494+0000] {dag.py:4180} INFO - Setting next_dagrun for batch_inplay_aggregation to 2025-08-25 12:52:00+00:00, run_after=2025-08-25 12:54:00+00:00
+[2025-08-25T12:54:43.522+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_batch_etl.py took 0.106 seconds
+[2025-08-25T12:55:14.313+0000] {processor.py:186} INFO - Started process (PID=2570) to work on /opt/airflow/dags/dag_batch_etl.py
+[2025-08-25T12:55:14.315+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_batch_etl.py for tasks to queue
+[2025-08-25T12:55:14.318+0000] {logging_mixin.py:190} INFO - [2025-08-25T12:55:14.317+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/dag_batch_etl.py
+[2025-08-25T12:55:14.329+0000] {processor.py:925} INFO - DAG(s) 'batch_inplay_aggregation' retrieved from /opt/airflow/dags/dag_batch_etl.py
+[2025-08-25T12:55:14.355+0000] {logging_mixin.py:190} INFO - [2025-08-25T12:55:14.355+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-08-25T12:55:14.387+0000] {logging_mixin.py:190} INFO - [2025-08-25T12:55:14.386+0000] {dag.py:4180} INFO - Setting next_dagrun for batch_inplay_aggregation to 2025-08-25 12:52:00+00:00, run_after=2025-08-25 12:54:00+00:00
+[2025-08-25T12:55:14.409+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_batch_etl.py took 0.105 seconds
+[2025-08-25T12:55:44.881+0000] {processor.py:186} INFO - Started process (PID=2634) to work on /opt/airflow/dags/dag_batch_etl.py
+[2025-08-25T12:55:44.883+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_batch_etl.py for tasks to queue
+[2025-08-25T12:55:44.888+0000] {logging_mixin.py:190} INFO - [2025-08-25T12:55:44.887+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/dag_batch_etl.py
+[2025-08-25T12:55:44.902+0000] {processor.py:925} INFO - DAG(s) 'batch_inplay_aggregation' retrieved from /opt/airflow/dags/dag_batch_etl.py
+[2025-08-25T12:55:44.934+0000] {logging_mixin.py:190} INFO - [2025-08-25T12:55:44.933+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-08-25T12:55:44.972+0000] {logging_mixin.py:190} INFO - [2025-08-25T12:55:44.972+0000] {dag.py:4180} INFO - Setting next_dagrun for batch_inplay_aggregation to 2025-08-25 12:52:00+00:00, run_after=2025-08-25 12:54:00+00:00
+[2025-08-25T12:55:44.999+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_batch_etl.py took 0.130 seconds
+[2025-08-25T12:56:15.043+0000] {processor.py:186} INFO - Started process (PID=2698) to work on /opt/airflow/dags/dag_batch_etl.py
+[2025-08-25T12:56:15.045+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_batch_etl.py for tasks to queue
+[2025-08-25T12:56:15.048+0000] {logging_mixin.py:190} INFO - [2025-08-25T12:56:15.047+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/dag_batch_etl.py
+[2025-08-25T12:56:15.059+0000] {processor.py:925} INFO - DAG(s) 'batch_inplay_aggregation' retrieved from /opt/airflow/dags/dag_batch_etl.py
+[2025-08-25T12:56:15.084+0000] {logging_mixin.py:190} INFO - [2025-08-25T12:56:15.083+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-08-25T12:56:15.114+0000] {logging_mixin.py:190} INFO - [2025-08-25T12:56:15.113+0000] {dag.py:4180} INFO - Setting next_dagrun for batch_inplay_aggregation to 2025-08-25 12:54:00+00:00, run_after=2025-08-25 12:56:00+00:00
+[2025-08-25T12:56:15.139+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_batch_etl.py took 0.104 seconds
+[2025-08-25T12:56:46.034+0000] {processor.py:186} INFO - Started process (PID=2762) to work on /opt/airflow/dags/dag_batch_etl.py
+[2025-08-25T12:56:46.037+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_batch_etl.py for tasks to queue
+[2025-08-25T12:56:46.041+0000] {logging_mixin.py:190} INFO - [2025-08-25T12:56:46.040+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/dag_batch_etl.py
+[2025-08-25T12:56:46.059+0000] {processor.py:925} INFO - DAG(s) 'batch_inplay_aggregation' retrieved from /opt/airflow/dags/dag_batch_etl.py
+[2025-08-25T12:56:46.081+0000] {logging_mixin.py:190} INFO - [2025-08-25T12:56:46.080+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-08-25T12:56:46.109+0000] {logging_mixin.py:190} INFO - [2025-08-25T12:56:46.109+0000] {dag.py:4180} INFO - Setting next_dagrun for batch_inplay_aggregation to 2025-08-25 12:54:00+00:00, run_after=2025-08-25 12:56:00+00:00
+[2025-08-25T12:56:46.129+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_batch_etl.py took 0.106 seconds

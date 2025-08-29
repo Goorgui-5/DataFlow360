@@ -7,7 +7,8 @@ from kafka import KafkaProducer
 API_TOKEN = "98080fa6a73e4cc2a5b700b4ec5e30ca"
 
 # URL API
-API_URL = "https://api.football-data.org/v4/matches?status" 
+API_URL = "https://api.football-data.org/v4/matches" 
+# API_URL = "https://api.football-data.org/v4/matches?dateFrom=2025-08-12&dateTo=2025-08-13"
 # URL pour les détails des matchs
 BASE_URL = "https://api.football-data.org/v4"
 

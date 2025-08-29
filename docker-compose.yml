@@ -1,28 +1,32 @@
 version: '3.8'
 
 services:
-  postgres:
-    image: postgres:16
-    container_name: postgres_dataflow360
-    restart: always
-    environment:
-      POSTGRES_USER: postgres
-      POSTGRES_PASSWORD: postgres
-      POSTGRES_DB: dataflow360
-    ports:
-      - "5433:5432"
-    volumes:
-      - postgres_data:/var/lib/postgresql/data
+  # postgres:
+  #   image: postgres:16
+  #   container_name: postgres_dataflow360
+  #   restart: always
+  #   environment:
+  #     POSTGRES_USER: postgres
+  #     POSTGRES_PASSWORD: postgres
+  #     POSTGRES_DB: dataflow360
+  #   ports:
+  #     - "5433:5432"
+  #   volumes:
+  #     - postgres_data:/var/lib/postgresql/data
+  #   networks:
+  #     - dataflow360
 
-  pgadmin:
-    image: dpage/pgadmin4
-    container_name: pgadmin_dataflow360
-    restart: always
-    environment:
-      PGADMIN_DEFAULT_EMAIL: admin@dataflow360.com
-      PGADMIN_DEFAULT_PASSWORD: admin
-    ports:
-      - "5050:80"
+  # pgadmin:
+  #   image: dpage/pgadmin4
+  #   container_name: pgadmin_dataflow360
+  #   restart: always
+  #   environment:
+  #     PGADMIN_DEFAULT_EMAIL: admin@dataflow360.com
+  #     PGADMIN_DEFAULT_PASSWORD: admin
+  #   ports:
+  #     - "5050:80"
+  #   networks:
+  #     - dataflow360
 
   zookeeper:
     image: confluentinc/cp-zookeeper:7.5.0
@@ -37,6 +41,8 @@ services:
     volumes:
       - zookeeper_data:/var/lib/zookeeper/data
       - zookeeper_logs:/var/lib/zookeeper/log
+    networks:
+      - dataflow360
 
   kafka:
     image: confluentinc/cp-kafka:7.5.0
@@ -54,75 +60,143 @@ services:
       KAFKA_AUTO_CREATE_TOPICS_ENABLE: 'true'
     volumes:
       - kafka_data:/var/lib/kafka/data
-
-  redis:
-    image: redis:latest
-    container_name: redis_dataflow360
-    ports:
-      - "6379:6379"
-    restart: always
-
-  mongo:
-      image: mongo:6
-      container_name: mongo_dataflow360
-      restart: always
-      ports:
-        - "27017:27017"
-      environment:
-        MONGO_INITDB_ROOT_USERNAME: root
-        MONGO_INITDB_ROOT_PASSWORD: example
-      volumes:
-        - mongo_data:/data/db
-
-  mongo-express:
-    image: mongo-express
-    container_name: mongo_express_dataflow360
-    restart: always
-    ports:
-      - "8081:8081"
-    environment:
-      ME_CONFIG_MONGODB_SERVER: mongo
-      ME_CONFIG_MONGODB_ADMINUSERNAME: root
-      ME_CONFIG_MONGODB_ADMINPASSWORD: example
-      ME_CONFIG_BASICAUTH_USERNAME: admin
-      ME_CONFIG_BASICAUTH_PASSWORD: pass
-    depends_on:
-      - mongo
-
-  spark:
-    image: bitnami/spark:latest
-    container_name: spark_dataflow360
-    environment:
-      - SPARK_MODE=master
-      - SPARK_MASTER_HOST=spark
-      - SPARK_RPC_AUTHENTICATION_ENABLED=no
-      - SPARK_RPC_ENCRYPTION_ENABLED=no
-      - SPARK_LOCAL_STORAGE_ENCRYPTION_ENABLED=no
-      - SPARK_SSL_ENABLED=no
-    ports:
-      - "7077:7077"
-      - "8080:8080"
     networks:
       - dataflow360
 
-  spark-worker:
-    image: bitnami/spark:latest
-    container_name: spark_worker_dataflow360
-    environment:
-      - SPARK_MODE=worker
-      - SPARK_MASTER_URL=spark://spark:7077
-      - SPARK_WORKER_MEMORY=1G
-      - SPARK_WORKER_CORES=1
-    depends_on:
-      - spark
-    networks:
-      - dataflow360
+  # kafka:
+  #   image: confluentinc/cp-kafka:7.5.0
+  #   container_name: kafka
+  #   restart: always
+  #   depends_on:
+  #     - zookeeper
+  #   ports:
+  #     - "9092:9092"
+  #   environment:
+  #     KAFKA_BROKER_ID: 1
+  #     KAFKA_ZOOKEEPER_CONNECT: zookeeper:2181
+  #     KAFKA_ADVERTISED_LISTENERS: PLAINTEXT://kafka:9092,PLAINTEXT_HOST://localhost:9092
+  #     KAFKA_LISTENER_SECURITY_PROTOCOL_MAP: PLAINTEXT:PLAINTEXT,PLAINTEXT_HOST:PLAINTEXT
+  #     KAFKA_INTER_BROKER_LISTENER_NAME: PLAINTEXT
+  #     KAFKA_OFFSETS_TOPIC_REPLICATION_FACTOR: 1
+  #     KAFKA_AUTO_CREATE_TOPICS_ENABLE: 'true'
+  #   networks:
+  #     - dataflow360
+    
+
+  # redis:
+  #   image: redis:latest
+  #   container_name: redis_dataflow360
+  #   ports:
+  #     - "6379:6379"
+  #   restart: always
+  #   networks:
+  #     - dataflow360
+
+  # mongo:
+  #   image: mongo:6
+  #   container_name: mongo_dataflow360
+  #   restart: always
+  #   ports:
+  #     - "27017:27017"
+  #   environment:
+  #     MONGO_INITDB_ROOT_USERNAME: root
+  #     MONGO_INITDB_ROOT_PASSWORD: example
+  #   volumes:
+  #     - mongo_data:/data/db
+  #   networks:
+  #     - dataflow360
+
+  # mongo-express:
+  #   image: mongo-express
+  #   container_name: mongo_express_dataflow360
+  #   restart: always
+  #   ports:
+  #     - "8081:8081"
+  #   environment:
+  #     ME_CONFIG_MONGODB_SERVER: mongo
+  #     ME_CONFIG_MONGODB_ADMINUSERNAME: root
+  #     ME_CONFIG_MONGODB_ADMINPASSWORD: example
+  #     ME_CONFIG_BASICAUTH_USERNAME: admin
+  #     ME_CONFIG_BASICAUTH_PASSWORD: pass
+  #   depends_on:
+  #     - mongo
+  #   networks:
+  #     - dataflow360
+
+  # spark:
+  #   image: bitnami/spark:latest
+  #   container_name: spark_dataflow360
+  #   environment:
+  #     - SPARK_MODE=master
+  #     - SPARK_MASTER_HOST=spark
+  #     - SPARK_RPC_AUTHENTICATION_ENABLED=no
+  #     - SPARK_RPC_ENCRYPTION_ENABLED=no
+  #     - SPARK_LOCAL_STORAGE_ENCRYPTION_ENABLED=no
+  #     - SPARK_SSL_ENABLED=no
+  #   ports:
+  #     - "7077:7077"
+  #     - "8080:8080"
+  #   networks:
+  #     - dataflow360
+
+  # spark-worker:
+  #   image: bitnami/spark:latest
+  #   container_name: spark_worker_dataflow360
+  #   environment:
+  #     - SPARK_MODE=worker
+  #     - SPARK_MASTER_URL=spark://spark:7077
+  #     - SPARK_WORKER_MEMORY=1G
+  #     - SPARK_WORKER_CORES=1
+  #   depends_on:
+  #     - spark
+  #   networks:
+  #     - dataflow360
+
+  # elasticsearch:
+  #   image: docker.elastic.co/elasticsearch/elasticsearch:8.11.0
+  #   container_name: elasticsearch_dataflow360
+  #   environment:
+  #     - discovery.type=single-node
+  #     - xpack.security.enabled=false 
+  #     - ES_JAVA_OPTS=-Xms1g -Xmx1g
+  #   ports:
+  #     - "9200:9200"
+  #   networks:
+  #     - dataflow360
+
+  # logstash:
+  #   image: docker.elastic.co/logstash/logstash:8.11.0
+  #   container_name: logstash_dataflow360
+  #   depends_on:
+  #     - elasticsearch
+  #     - kafka
+  #   volumes:
+  #     - ./monitoring/logstash:/usr/share/logstash/pipeline
+  #   ports:
+  #     - "5044:5044"
+  #   networks:
+  #     - dataflow360
 
 
-  streaming_api_producer:
+  # kibana:
+  #   image: docker.elastic.co/kibana/kibana:8.11.0
+  #   container_name: kibana_dataflow360
+  #   depends_on:
+  #     - elasticsearch
+  #   environment:
+  #     - ELASTICSEARCH_HOSTS=http://elasticsearch:9200
+  #   ports:
+  #     - "5601:5601"
+  #   networks:
+  #     - dataflow360
+
 volumes:
-  postgres_data:
+  # postgres_data:
   zookeeper_data:
   zookeeper_logs:
   kafka_data:
-  mongo_data:
+  # mongo_data:
+
+networks:
+  dataflow360:
+    driver: bridge
