@@ -24,6 +24,7 @@ consumer = KafkaConsumer(
 
 print(" En attente des messages Kafka...")
 
+# Traitement des messages Kafka
 try:
     for message in consumer:
         data = message.value
@@ -33,6 +34,7 @@ try:
             if message.topic == "live_matches":
                 print(f"Match reçu : {json.dumps(data, indent=2)}")
 
+                # Insertion dans la table matchs_en_direct
                 cur.execute("""
                     INSERT INTO matchs_en_direct (
                         match_id, competition, date_heure,
@@ -60,10 +62,13 @@ try:
                 ))
                 print("Match inséré/mis à jour.")
 
+            # Événements de match
             elif message.topic == "match_events":
                 print(f"Événement reçu : {json.dumps(data, indent=2)}")
 
                 if data.get("event_type") == "GOAL":
+
+                    # Insertion dans la table buteurs
                     cur.execute("""
                         INSERT INTO buteurs (
                             match_id, minute, team, player_name, assist_name, goal_type
@@ -80,6 +85,8 @@ try:
                     print("Buteur inséré.")
 
                 elif data.get("event_type") == "CARD":
+
+                    # Insertion dans la table cartons
                     cur.execute("""
                         INSERT INTO cartons (
                             match_id, minute, team, player_name, card_type

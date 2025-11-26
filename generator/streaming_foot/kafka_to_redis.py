@@ -21,15 +21,18 @@ print(" En attente des messages Kafka...")
 # Durée de vie des données dans Redis (en secondes)
 TTL = 10800 # 1 heure
 
+# Traitement des messages Kafka
 for message in consumer:
     data = message.value
 
+    # Stockage dans Redis selon le topic
     if message.topic == "live_matches":
         key = f"match:{data['match_id']}"
         r.set(key, json.dumps(data))
         r.expire(key, TTL)  # suppression automatique après TTL
         print(f" Match stocké → {key}")
-
+    
+    # Stockage des événements de match
     elif message.topic == "match_events":
         key = f"events:{data['match_id']}"
         r.rpush(key, json.dumps(data))  # ajout à la liste

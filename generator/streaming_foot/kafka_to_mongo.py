@@ -23,9 +23,11 @@ consumer = KafkaConsumer(
 
 print("En attente des messages Kafka (MongoDB)...")
 
+# Traitement des messages Kafka
 for message in consumer:
     data = message.value
 
+    # Stockage dans MongoDB selon le topic
     if message.topic == "live_matches":
         # Upsert : mise à jour si match déjà existant
         col_matches.update_one(
@@ -35,6 +37,7 @@ for message in consumer:
         )
         print(f"Match enregistré/mis à jour dans MongoDB → {data['match_id']}")
 
+    # Événements de match
     elif message.topic == "match_events":
         # Insertion simple (historique des événements)
         col_events.insert_one(data)
